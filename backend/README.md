@@ -2,8 +2,11 @@
 
 ## Guidelines
 
-Fork this repo.
-Solve the levels in ascending order, an commit your code at the end of each level.
+- fork this repo
+- solve the levels in ascending order
+- commit your code at the end of each level
+- once you are ready, add someone from drivy to the repo so that we can review your code
+
 You can have a look at the higher levels, but please do the **simplest thing** that could work for the level you're currently solving.
 
 Disclaimer: the levels become more complex over time, so you will probably have to re-use some code and adapt it to the new requirements.
