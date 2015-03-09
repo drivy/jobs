@@ -2,7 +2,7 @@
 
 ## Guidelines
 
-- fork this repo
+- clone this repo (do *not* fork it)
 - solve the levels in ascending order
 - commit your code at the end of each level
 - once you are ready, add someone from drivy to the repo so that we can review your code
