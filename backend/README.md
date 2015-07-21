@@ -7,7 +7,7 @@
 - clone this repo (do **not** fork it)
 - solve the levels in ascending order
 - commit your code at the end of each level
-- once you are ready, add someone from drivy to the repo so that we can review your code
+- once you are done, ping someone from drivy (ideally via our jobs page)
 
 You can have a look at the higher levels, but please do the **simplest thing** that could work for the level you're currently solving.
 
