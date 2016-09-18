@@ -6,13 +6,11 @@ module Services
   class Repository
     attr_reader :data
 
-    delegate :[], to: :data
-
     def initialize(data)
       @data = JSON.parse(data).deep_symbolize_keys
     end
 
-    def rentals_with_car
+    def rentals_with_car_h
       data[:rentals].map do |rental_params|
         rental = ::Models::Rental.new(rental_params)
         car = car_by_rental(rental)

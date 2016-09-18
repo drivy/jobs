@@ -1,7 +1,9 @@
 require "./models/car"
 
 RSpec.describe Models::Car do
-  let(:attributes) { { "id": 1, "price_per_day": 2000, "price_per_km": 10 } }
+  let(:attributes) do
+    { "id" => 1, "price_per_day" => 2000, "price_per_km" => 10 }
+  end
   subject { described_class.new(attributes) }
 
   describe ".new" do

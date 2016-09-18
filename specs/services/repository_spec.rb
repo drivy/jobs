@@ -4,28 +4,32 @@ require "json"
 RSpec.describe Services::Repository do
   let(:input_data) { repository_data.to_json }
   let(:rental_params_first) do
-    { "id": 1,
-      "car_id": 1,
-      "start_date": "2017-12-8",
-      "end_date": "2017-12-10",
-      "distance": 100 }
+    {
+      id:  1,
+      car_id:  1,
+      start_date:  "2017-12-8",
+      end_date:  "2017-12-10",
+      distance:  100
+    }
   end
 
   let(:rental_params_last) do
-    { "id": 2,
-      "car_id": 1,
-      "start_date": "2017-12-14",
-      "end_date": "2017-12-18",
-      "distance": 550 }
+    {
+      id:  2,
+      car_id:  1,
+      start_date:  "2017-12-14",
+      end_date:  "2017-12-18",
+      distance:  550
+    }
   end
 
   let(:repository_data) do
     {
-      "cars": [
-        { "id": 1, "price_per_day": 2000, "price_per_km": 10 },
-        { "id": 2, "price_per_day": 3000, "price_per_km": 15 },
+      cars: [
+        { id: 1, price_per_day: 2000, price_per_km: 10 },
+        { id: 2, price_per_day: 3000, price_per_km: 15 }
       ],
-      "rentals": [rental_params_first, rental_params_last]
+      rentals: [rental_params_first, rental_params_last]
     }
   end
 
@@ -37,7 +41,7 @@ RSpec.describe Services::Repository do
     end
   end
 
-  describe "#rentals_with_car" do
+  describe "#rentals_with_car_h" do
     # FIX ME : context case when not consistent data ( ex: rental with wrong
     # car_id ) not provided for the moment. It has be assumed that the provided
     # data that instantiates the repo is correct
@@ -46,7 +50,7 @@ RSpec.describe Services::Repository do
     let(:rental_last_id) { 2 }
 
     it "returns all the existing rentals" do
-      rentals = subject.rentals_with_car
+      rentals = subject.rentals_with_car_h
       expect(rentals.count).to eq 2
 
       expect(rentals.first[:rental].id).to eq 1
@@ -69,11 +73,11 @@ RSpec.describe Services::Repository do
     context "when a car is not present for the given rental" do
       let(:rental) do
         Models::Rental.new(
-          "id": 1,
-          "car_id": 3,
-          "start_date": "2017-12-8",
-          "end_date": "2017-12-10",
-          "distance": 100
+          id: 1,
+          car_id: 3,
+          start_date: "2017-12-8",
+          end_date: "2017-12-10",
+          distance: 100
         )
       end
 

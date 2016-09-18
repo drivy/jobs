@@ -8,3 +8,4 @@ end
 
 gem "activesupport"
 gem "activemodel"
+gem "rubocop"

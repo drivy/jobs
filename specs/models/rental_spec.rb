@@ -3,15 +3,15 @@ require "./models/rental"
 RSpec.describe Models::Rental do
   let(:attributes) do
     {
-      "id": 1,
-      "car_id": 1,
-      "start_date": "2017-12-8",
-      "end_date": "2017-12-10",
-      "distance": 100
+      "id" => 1,
+      "car_id" => 1,
+      "start_date" => "2017-12-8",
+      "end_date" => "2017-12-10",
+      "distance" => 100
     }
   end
 
-  subject {described_class.new(attributes) }
+  subject { described_class.new(attributes) }
 
   describe ".new" do
     it "instantiates correctly from attributes hash" do
