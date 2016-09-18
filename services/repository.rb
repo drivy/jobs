@@ -13,13 +13,11 @@ module Services
     end
 
     def rentals_with_car
-      @_rentals ||= begin
-        data[:rentals].map do |rental_params|
+      data[:rentals].map do |rental_params|
         rental = ::Models::Rental.new(rental_params)
         car = car_by_rental(rental)
 
         { rental: rental, car: car }
-        end
       end
     end
 

@@ -3,6 +3,21 @@ require "json"
 
 RSpec.describe Services::Repository do
   let(:input_data) { repository_data.to_json }
+  let(:rental_params_first) do
+    { "id": 1,
+      "car_id": 1,
+      "start_date": "2017-12-8",
+      "end_date": "2017-12-10",
+      "distance": 100 }
+  end
+
+  let(:rental_params_last) do
+    { "id": 2,
+      "car_id": 1,
+      "start_date": "2017-12-14",
+      "end_date": "2017-12-18",
+      "distance": 550 }
+  end
 
   let(:repository_data) do
     {
@@ -10,10 +25,7 @@ RSpec.describe Services::Repository do
         { "id": 1, "price_per_day": 2000, "price_per_km": 10 },
         { "id": 2, "price_per_day": 3000, "price_per_km": 15 },
       ],
-      "rentals": [
-        { "id": 1, "car_id": 1, "start_date": "2017-12-8", "end_date": "2017-12-10", "distance": 100 },
-        { "id": 2, "car_id": 1, "start_date": "2017-12-14", "end_date": "2017-12-18", "distance": 550 }
-      ]
+      "rentals": [rental_params_first, rental_params_last]
     }
   end
 
@@ -47,15 +59,7 @@ RSpec.describe Services::Repository do
 
   describe "#car_by_rental" do
     context "when a car is present for the given rental" do
-      let(:rental) do
-        Models::Rental.new(
-          "id": 1,
-          "car_id": 1,
-          "start_date": "2017-12-8",
-          "end_date": "2017-12-10",
-          "distance": 100
-        )
-      end
+      let(:rental) { Models::Rental.new(rental_params_first) }
 
       it "returns the car by the given rental" do
         expect(subject.car_by_rental(rental).id).to eq 1
