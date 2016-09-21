@@ -37,8 +37,20 @@ class Rental
   attr_accessor :id, :car_id, :car, :start_date, :end_date, :distance, :price
 
   def compute_price
-    self.price = ((Date.parse(end_date) - Date.parse(start_date)).to_i + 1) * car.price_per_day +
-      distance * car.price_per_km
+    days = (Date.parse(end_date) - Date.parse(start_date)).to_i + 1
+    day_price = 0
+    (1..days).to_a.each_with_index do |index, _|
+      day_price += case
+                when index > 10 then car.price_per_day * 0.5
+                when index > 4 then car.price_per_day * 0.7
+                when index > 1 then car.price_per_day * 0.9
+                else
+                  car.price_per_day
+                end
+    end
+    p day_price
+    self.price =  (day_price +
+                   distance * car.price_per_km).to_i
   end
 
   def as_json(*params)
