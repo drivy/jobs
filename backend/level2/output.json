@@ -6,11 +6,11 @@
     },
     {
       "id": 2,
-      "price": 6800
+      "price": 6800 #inconsistent! by readme should be 6600
     },
     {
       "id": 3,
-      "price": 27800
+      "price": 27800 #inconsistent! by readme should be 22000
     }
   ]
 }
