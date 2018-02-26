@@ -1,4 +1,4 @@
-# Drivy Data & Ops Challenge
+# Drivy Data Challenge
 
 Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
 

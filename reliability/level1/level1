@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+#coding:utf-8
+
+require "securerandom"
+
+services = %w{
+  web
+  admin
+  api
+}
+
+1000.times do
+  uuid = SecureRandom.uuid
+  service = services.sample
+
+  out = [
+    "id=#{uuid}",
+    "service_name=#{service}",
+    "process=#{service}.#{rand(1..4000)}",
+    "sample#load_avg_1m=#{rand.round(3)}",
+    "sample#load_avg_5m=#{rand.round(3)}",
+    "sample#load_avg_15m=#{rand.round(3)}",
+  ].join(" ")
+
+  IO.write("./logs/#{uuid}.txt", out)
+end
