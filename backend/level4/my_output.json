@@ -1,0 +1,40 @@
+{
+  "rentals": [
+    {
+      "id": 1,
+      "price": 3000,
+      "options": {
+        "deductible_reduction": 400
+      },
+      "commission": {
+        "insurance_fee": 450,
+        "assistance_fee": 100,
+        "drivy_fee": 350
+      }
+    },
+    {
+      "id": 2,
+      "price": 6800,
+      "options": {
+        "deductible_reduction": 0
+      },
+      "commission": {
+        "insurance_fee": 1020,
+        "assistance_fee": 200,
+        "drivy_fee": 820
+      }
+    },
+    {
+      "id": 3,
+      "price": 27800,
+      "options": {
+        "deductible_reduction": 4800
+      },
+      "commission": {
+        "insurance_fee": 4170,
+        "assistance_fee": 1200,
+        "drivy_fee": 2970
+      }
+    }
+  ]
+}
