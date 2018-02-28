@@ -1,4 +1,5 @@
 # Drivy Challenges
 
 - [backend](https://github.com/drivy/jobs/tree/master/backend)
-- [data & ops](https://github.com/drivy/jobs/tree/master/data-ops)
+- [data](https://github.com/drivy/jobs/tree/master/data)
+- [reliability](https://github.com/drivy/jobs/tree/master/reliability)

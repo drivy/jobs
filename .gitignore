@@ -1,0 +1,2 @@
+reliability/level1/logs/*.txt
+reliability/**/**/server.rb
