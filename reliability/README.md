@@ -38,28 +38,28 @@ The goal is write a program that will parse the messages, write the result to a 
 }
 ```
 
-And finally delete the original raw file.
+Eventually, it will delete the original raw file.
 
 ## Level 2
 The `level2` binary will send the same logs to a local HTTP server.
 
-The server needs to liste to HTTP POST on `/` on port 3000.
+The server needs to listen to HTTP POST on `/` on port 3000.
 The HTTP call will timeout after 100ms.
 
 To write a simple HTTP server look at [Sinatra](https://github.com/sinatra/sinatra) or [Hanami](https://github.com/hanami/hanami).
 
-As in level 1, you need to parse the logs and write the result to a JSON file in `./parsed/#{id}.json` in the same format.
+As in level 1, you will need to parse the logs and write the result to a JSON file in `./parsed/#{id}.json` in the same format.
 
 ## Level 3
 The `level3` binary is exactly the same as `level2`.
 
-This time you need to parse the logs and send them to a Redis `LIST` on a local Redis instance.
+This time you will need to parse the logs and send them to a Redis `LIST` on a local Redis instance.
 
 Again, the HTTP call will timeout after 100ms.
 
 ## Level 4
 
-This level is the same as the previous but you’ll have to enrich the parsed JSON using the library `slow_computation.rb` that is provided in the level4 directory.
+This level is almost the same as the previous, the only difference is that you’ll have to enrich the parsed JSON using the library `slow_computation.rb` that is provided in the level4 directory.
 
 Usage is as follows:
 
@@ -85,6 +85,6 @@ Again, the HTTP call will timeout after 100ms.
 
 -------
 
-We hope you'll have fun doing this challenge. It shouldn't take more than a few hours. Have fun and be reliable <3
+We hope you'll have fun doing this challenge. It shouldn't take more than a few hours. Enjoy and be reliable <3
 
 
