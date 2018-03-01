@@ -54,6 +54,7 @@ You need to write a JSON in the following format:
 Go into the `level2` directory.
 When you launch the `level2` program it will send the same log messages to a local HTTP server at http://localhost:3000/.
 The HTTP server listens to POST requests on the port 3000.
+
 **The POST requests will timeout after 100ms.**
 
 You need to write a simple HTTP server that will listen to this requests, parse the logs and write the result to a JSON file in `./parsed/#{id}.json` in the same format than level1.
@@ -72,6 +73,7 @@ Go into the level4 directory.
 The level4 program is the same as level2 and level3.
 
 Your HTTP server, after parsing the logs, needs to enrich them with a library called `SlowComputation`.
+
 To use this library:
 
 ```
@@ -91,6 +93,7 @@ puts new_json
 ```
 
 As in level 3 you’ll send the resulting JSON in a redis LIST.
+
 Again, the HTTP call will timeout after 100ms.
 
 -------
