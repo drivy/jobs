@@ -23,9 +23,20 @@ Each level is a directory containing ruby executables and libraries that you'll 
 
 You can't modify them.
 
+Your solution to each level needs to live in the level directory.
+
 ## Level 1
-The `level1` binary will write log messages into `./logs/#{id}.txt`.
-The goal is write a program that will parse the messages, write the result to a JSON file in `./parsed/#{id}.json` in the following format:
+
+Go into the `level1` directory and launch the `level1` program.
+It will write log messages into `./logs/#{id}.txt`.
+Each file will contain one messsage log. The log looks like this:
+
+```
+id=0060cd38-9dd5-4eff-a72f-9705f3dd25d9 service_name=api process=api.233 sample#load_avg_1m=0.849 sample#load_avg_5m=0.561 sample#load_avg_15m=0.202
+```
+
+You need to write a program that will parse the messages, write the result to a JSON file in `./parsed/#{id}.json` and deletes the original message.
+You need to write a JSON in the following format:
 
 ```
 {
@@ -38,30 +49,30 @@ The goal is write a program that will parse the messages, write the result to a 
 }
 ```
 
-Eventually, it will delete the original raw file.
-
 ## Level 2
-The `level2` binary will send the same logs to a local HTTP server.
 
-The server needs to listen to HTTP POST on `/` on port 3000.
-The HTTP call will timeout after 100ms.
+Go into the `level2` directory.
+When you launch the `level2` program it will send the same log messages to a local HTTP server at http://localhost:3000/.
+The HTTP server listens to POST requests on the port 3000.
+**The POST requests will timeout after 100ms.**
 
+You need to write a simple HTTP server that will listen to this requests, parse the logs and write the result to a JSON file in `./parsed/#{id}.json` in the same format than level1.
 To write a simple HTTP server look at [Sinatra](https://github.com/sinatra/sinatra) or [Hanami](https://github.com/hanami/hanami).
 
-As in level 1, you will need to parse the logs and write the result to a JSON file in `./parsed/#{id}.json` in the same format.
-
 ## Level 3
-The `level3` binary is exactly the same as `level2`.
 
-This time you will need to parse the logs and send them to a Redis `LIST` on a local Redis instance.
+Go into the level3 directory.
+The level3 program is the same as level2.
 
-Again, the HTTP call will timeout after 100ms.
+This time your HTTP server need to parse the logs and send them to a Redis `LIST` on a local Redis instance (redis://localhost:6379).
 
 ## Level 4
 
-This level is almost the same as the previous, the only difference is that you’ll have to enrich the parsed JSON using the library `slow_computation.rb` that is provided in the level4 directory.
+Go into the level4 directory.
+The level4 program is the same as level2 and level3.
 
-Usage is as follows:
+Your HTTP server, after parsing the logs, needs to enrich them with a library called `SlowComputation`.
+To use this library:
 
 ```
 require "slow_computation"
@@ -80,7 +91,6 @@ puts new_json
 ```
 
 As in level 3 you’ll send the resulting JSON in a redis LIST.
-
 Again, the HTTP call will timeout after 100ms.
 
 -------
