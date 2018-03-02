@@ -1,0 +1,94 @@
+{
+  "rentals": [
+    {
+      "id": 1,
+      "actions": [
+        {
+          "who": "driver",
+          "type": "debit",
+          "amount": 3000
+        },
+        {
+          "who": "owner",
+          "type": "credit",
+          "amount": 2100
+        },
+        {
+          "who": "insurance",
+          "type": "credit",
+          "amount": 450
+        },
+        {
+          "who": "assistance",
+          "type": "credit",
+          "amount": 100
+        },
+        {
+          "who": "drivy",
+          "type": "credit",
+          "amount": 350
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "actions": [
+        {
+          "who": "driver",
+          "type": "debit",
+          "amount": 6800
+        },
+        {
+          "who": "owner",
+          "type": "credit",
+          "amount": 4760
+        },
+        {
+          "who": "insurance",
+          "type": "credit",
+          "amount": 1020
+        },
+        {
+          "who": "assistance",
+          "type": "credit",
+          "amount": 200
+        },
+        {
+          "who": "drivy",
+          "type": "credit",
+          "amount": 820
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "actions": [
+        {
+          "who": "driver",
+          "type": "debit",
+          "amount": 27800
+        },
+        {
+          "who": "owner",
+          "type": "credit",
+          "amount": 19460
+        },
+        {
+          "who": "insurance",
+          "type": "credit",
+          "amount": 4170
+        },
+        {
+          "who": "assistance",
+          "type": "credit",
+          "amount": 1200
+        },
+        {
+          "who": "drivy",
+          "type": "credit",
+          "amount": 2970
+        }
+      ]
+    }
+  ]
+}
