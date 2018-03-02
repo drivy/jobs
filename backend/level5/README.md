@@ -1,10 +1,10 @@
 # Level 5
 
-We want to know how much money must be debited/credited for each actor (driver/owner/insurance/assistance/drivy).
+Some drivers want to be able to buy additionnal features after their booking.
 
-Reminder:
-- the driver must pay the rental price and the (optional) deductible reduction
-- the owner receives the rental price minus the commission
-- the insurance receives its part of the commission
-- the assistance receives its part of the commission
-- drivy receives its part of the commission, plus the deductible reduction
+Here are the possible options:
+- GPS: 5€/day, all the money goes to the owner
+- Baby Seat: 2€/day, all the money goes to the owner
+- Additional Insurance: 10€/day, all the money goes to Drivy
+
+_This is the final level, now would be a good time to tidy up your code and do a last round of refactoring :)_
