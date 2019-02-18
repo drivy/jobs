@@ -5,7 +5,7 @@ You can also take a look at our [engineering blog](https://drivy.engineering/) t
 
 ## Guidelines
 
-**For each level, write code that generates a `data/output.json` file from `data/input.json`.
+**For each level, write code that creates a new `data/output.json` file from the data in `data/input.json`.
 An `expected_output.json` file is available to give you a reference on what result is expected.**
 
 - Clone this repo (do **not** fork it)
