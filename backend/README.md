@@ -10,7 +10,7 @@ An `expected_output.json` file is available to give you a reference on what resu
 
 - Clone this repo (do **not** fork it)
 - Solve the levels in ascending order
-- Only do one commit per level
+- Only do one commit per level and include the `.git` when submiting your test
 
 ## Pointers
 
