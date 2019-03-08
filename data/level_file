@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+
+import itertools
+import os
+import uuid
+
+import lib.log_generator as log_generator
+
+for _ in itertools.repeat(None, 1000):
+  id = uuid.uuid4()
+
+  filename = f'./logs/{id}.txt'
+  os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+  with open(filename, 'w') as file:
+    file.write(log_generator.sample(id))
+
+print("Generated 1000 files in ./logs")
