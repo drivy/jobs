@@ -1,0 +1,296 @@
+[
+  {
+    "brand": "Fiat",
+    "model": "Panda",
+    "pricePerDay": 12,
+    "pricePerKm": 1700,
+    "availability": { "maxDuration": 3, "maxDistance": 300 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Kangoo",
+    "pricePerDay": 12,
+    "pricePerKm": 2700,
+    "availability": { "maxDuration": 1, "maxDistance": 200 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Clio Campus",
+    "pricePerDay": 12,
+    "pricePerKm": 1500,
+    "availability": { "maxDuration": 10, "maxDistance": 500 }
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "pricePerDay": 12,
+    "pricePerKm": 1500,
+    "availability": { "maxDuration": 20, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touran",
+    "pricePerDay": 12,
+    "pricePerKm": 3700,
+    "availability": { "maxDuration": 30, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "C4 Picasso",
+    "pricePerDay": 15,
+    "pricePerKm": 5000,
+    "availability": { "maxDuration": 25, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Espace",
+    "pricePerDay": 12,
+    "pricePerKm": 3000,
+    "availability": { "maxDuration": 15, "maxDistance": 1000 }
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20",
+    "pricePerDay": 15,
+    "pricePerKm": 3400,
+    "availability": { "maxDuration": 30, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Opel",
+    "model": "Meriva",
+    "pricePerDay": 12,
+    "pricePerKm": 2700,
+    "availability": { "maxDuration": 20, "maxDistance": 500 }
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "pricePerDay": 12,
+    "pricePerKm": 2200,
+    "availability": { "maxDuration": 10, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Clio",
+    "pricePerDay": 15,
+    "pricePerKm": 2300,
+    "availability": { "maxDuration": 30, "maxDistance": 500 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "106",
+    "pricePerDay": 12,
+    "pricePerKm": 1200,
+    "availability": { "maxDuration": 10, "maxDistance": 600 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "207",
+    "pricePerDay": 12,
+    "pricePerKm": 1200,
+    "availability": { "maxDuration": 3, "maxDistance": 200 }
+  },
+  {
+    "brand": "Honda",
+    "model": "Jazz",
+    "pricePerDay": 15,
+    "pricePerKm": 3400,
+    "availability": { "maxDuration": 25, "maxDistance": 1750 }
+  },
+  {
+    "brand": "Nissan",
+    "model": "Micra",
+    "pricePerDay": 12,
+    "pricePerKm": 1700,
+    "availability": { "maxDuration": 2, "maxDistance": 1000 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "206 CC",
+    "pricePerDay": 12,
+    "pricePerKm": 2100,
+    "availability": { "maxDuration": 18, "maxDistance": 500 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "206",
+    "pricePerDay": 12,
+    "pricePerKm": 1200,
+    "availability": { "maxDuration": 14, "maxDistance": 750 }
+  },
+  {
+    "brand": "Fiat",
+    "model": "500 C",
+    "pricePerDay": 15,
+    "pricePerKm": 3100,
+    "availability": { "maxDuration": 20, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "C4 Grand Picasso",
+    "pricePerDay": 12,
+    "pricePerKm": 2700,
+    "availability": { "maxDuration": 10, "maxDistance": 1250 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Scénic",
+    "pricePerDay": 12,
+    "pricePerKm": 2300,
+    "availability": { "maxDuration": 25, "maxDistance": 300 }
+  },
+  {
+    "brand": "Skoda",
+    "model": "Fabia",
+    "pricePerDay": 15,
+    "pricePerKm": 3200,
+    "availability": { "maxDuration": 10, "maxDistance": 2650 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "Xsara Picasso",
+    "pricePerDay": 12,
+    "pricePerKm": 2000,
+    "availability": { "maxDuration": 5, "maxDistance": 500 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "Saxo",
+    "pricePerDay": 12,
+    "pricePerKm": 1300,
+    "availability": { "maxDuration": 30, "maxDistance": 1000 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "C2",
+    "pricePerDay": 12,
+    "pricePerKm": 1800,
+    "availability": { "maxDuration": 20, "maxDistance": 1550 }
+  },
+  {
+    "brand": "Smart",
+    "model": "Forfour",
+    "pricePerDay": 12,
+    "pricePerKm": 4200,
+    "availability": { "maxDuration": 30, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Seat",
+    "model": "Ibiza",
+    "pricePerDay": 12,
+    "pricePerKm": 1200,
+    "availability": { "maxDuration": 7, "maxDistance": 1050 }
+  },
+  {
+    "brand": "Fiat",
+    "model": "Punto",
+    "pricePerDay": 12,
+    "pricePerKm": 3200,
+    "availability": { "maxDuration": 25, "maxDistance": 1450 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "DS3",
+    "pricePerDay": 15,
+    "pricePerKm": 2800,
+    "availability": { "maxDuration": 30, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "206+",
+    "pricePerDay": 12,
+    "pricePerKm": 2500,
+    "availability": { "maxDuration": 18, "maxDistance": 1350 }
+  },
+  {
+    "brand": "Opel",
+    "model": "Corsa",
+    "pricePerDay": 15,
+    "pricePerKm": 2600,
+    "availability": { "maxDuration": 8, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "C3",
+    "pricePerDay": 12,
+    "pricePerKm": 3000,
+    "availability": { "maxDuration": 30, "maxDistance": 2500 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "208",
+    "pricePerDay": 12,
+    "pricePerKm": 3100,
+    "availability": { "maxDuration": 12, "maxDistance": 1800 }
+  },
+  {
+    "brand": "Opel",
+    "model": "Zafira",
+    "pricePerDay": 12,
+    "pricePerKm": 4100,
+    "availability": { "maxDuration": 21, "maxDistance": 2200 }
+  },
+  {
+    "brand": "Suzuki",
+    "model": "swift",
+    "pricePerDay": 12,
+    "pricePerKm": 2500,
+    "availability": { "maxDuration": 12, "maxDistance": 1500 }
+  },
+  {
+    "brand": "Peugeot",
+    "model": "5008",
+    "pricePerDay": 12,
+    "pricePerKm": 200,
+    "availability": { "maxDuration": 17, "maxDistance": 2900 }
+  },
+  {
+    "brand": "Kia",
+    "model": "Picanto",
+    "pricePerDay": 12,
+    "pricePerKm": 1700,
+    "availability": { "maxDuration": 28, "maxDistance": 3000 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "Berlingo Multispace",
+    "pricePerDay": 12,
+    "pricePerKm": 7500,
+    "availability": { "maxDuration": 2, "maxDistance": 200 }
+  },
+  {
+    "brand": "Citroen",
+    "model": "C3 Picasso",
+    "pricePerDay": 12,
+    "pricePerKm": 2600,
+    "availability": { "maxDuration": 5, "maxDistance": 600 }
+  },
+  {
+    "brand": "Toyota",
+    "model": "Yaris",
+    "pricePerDay": 12,
+    "pricePerKm": 3000,
+    "availability": { "maxDuration": 24, "maxDistance": 2100 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Grand Scénic",
+    "pricePerDay": 12,
+    "pricePerKm": 2600,
+    "availability": { "maxDuration": 14, "maxDistance": 1950 }
+  },
+  {
+    "brand": "Ford",
+    "model": "C-Max",
+    "pricePerDay": 15,
+    "pricePerKm": 3200,
+    "availability": { "maxDuration": 15, "maxDistance": 1300 }
+  },
+  {
+    "brand": "Renault",
+    "model": "Modus",
+    "pricePerDay": 12,
+    "pricePerKm": 1600,
+    "availability": { "maxDuration": 30, "maxDistance": 3000 }
+  }
+]
