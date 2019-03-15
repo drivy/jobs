@@ -13,14 +13,14 @@ app.get("/cars.json", (req, res) => {
   });
 
   if (req.query.duration) {
-    availableCars = cars.filter(
+    availableCars = availableCars.filter(
       ({ availability }) =>
         parseInt(req.query.duration, 10) <= availability.maxDuration
     );
   }
 
   if (req.query.distance) {
-    availableCars = cars.filter(
+    availableCars = availableCars.filter(
       ({ availability }) =>
         parseInt(req.query.distance, 10) <= availability.maxDistance
     );
