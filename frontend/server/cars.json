@@ -241,7 +241,7 @@
     "brand": "Peugeot",
     "model": "5008",
     "pricePerDay": 1200,
-    "pricePerKm": 20
+    "pricePerKm": 20,
     "availability": { "maxDuration": 17, "maxDistance": 2900 }
   },
   {
