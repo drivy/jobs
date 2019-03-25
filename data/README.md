@@ -119,7 +119,7 @@ You need to solve this in SQL. You are free to choose any kind of database engin
 
 We first want to fix the `NULL` created_at for `cars`. For each car with a NULL created_at, we will consider that they were created on the same date as the previous car (ie. the car with the closest id before with a non null `created_at`). Assume that cars can be more than 1 ID apart.
 
-Then, for each month, find how many cars reach their 3rd rental ever during this month. Use the `starts_at` to determine the month to attribute.
+Then, for each month, find how many cars reach their 3rd rental since their registration. Use the `starts_at` to determine the month to attribute.
 
 -------
 
