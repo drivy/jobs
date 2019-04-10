@@ -7,6 +7,7 @@ have to complete one of our code challenges:
 - [Frontend](https://github.com/drivy/jobs/tree/master/frontend)
 - [Data](https://github.com/drivy/jobs/tree/master/data)
 - [Reliability](https://github.com/drivy/jobs/tree/master/reliability)
+- [Android](https://github.com/drivy/jobs/tree/master/android)
 
 In order to learn more about [Drivy](https://www.drivy.com/),
 you can head over our [engineering blog](https://drivy.engineering/about/)
