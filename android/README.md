@@ -12,7 +12,7 @@ You can have a look at the higher levels, but please do the simplest thing that 
 
 We are interested in seeing code that is clean, extensible and robust, so don’t overlook edge cases, …
 
-We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Drivy or anywhere else!
+We want to see how you would handle some styling of this app, following Material guidelines. Do not hesitate to take inspiration from Drivy or anywhere else!
 
 Feel free to use any libs and technics you are confortable with.
 
