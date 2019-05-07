@@ -12,9 +12,7 @@ You can have a look at the higher levels, but please do the simplest thing that 
 
 We are interested in seeing code that is clean, extensible and robust, so don’t overlook edge cases, …
 
-Please also note that all prices are stored as integers (in cents). Do not forget to format them if needed.
-
-We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Drivy or anywhere else!
+We want to see how you would handle some styling of this app, following Material guidelines. Do not hesitate to take inspiration from Drivy or anywhere else!
 
 Feel free to use any libs and technics you are confortable with.
 
@@ -41,13 +39,13 @@ Our plan is now to let any person (let’s call them « driver ») see cars th
 For the first version of our app, we want drivers to see the cars they can rent. For every car returned by the backend, we want to display its picture, brand, model, price per day and rating.
 
 The API is accessible with a `GET` request at `https://github.com/drivy/jobs/blob/master/android/api/cars.json`.  
-Mockup #1 gives you an idea of what we would like to see.
+Wireframe #1 gives you an idea of what we would like to see.
 
 ![Mockup #1](list.png?raw=true "Mockup #1")
 
 ### Level 2: display a car details
 
 When a driver click on a car, we want to display a second view with more details.  
-Mockup #2 gives you an idea of what we would like to see.
+Wireframe #2 gives you an idea of what we would like to see.
 
 ![Mockup #2](details.png?raw=true "Mockup #2")
