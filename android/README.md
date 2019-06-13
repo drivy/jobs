@@ -38,7 +38,7 @@ Our plan is now to let any person (let’s call them « driver ») see cars th
 
 For the first version of our app, we want drivers to see the cars they can rent. For every car returned by the backend, we want to display its picture, brand, model, price per day and rating.
 
-The API is accessible with a `GET` request at `https://github.com/drivy/jobs/blob/master/android/api/cars.json`.  
+The API is accessible with a `GET` request at `https://raw.githubusercontent.com/drivy/jobs/master/android/api/cars.json`.  
 Wireframe #1 gives you an idea of what we would like to see.
 
 ![Mockup #1](list.png?raw=true "Mockup #1")
