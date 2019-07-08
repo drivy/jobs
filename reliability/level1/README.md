@@ -2,7 +2,7 @@
 
 ## Summary
 
-When you launch the `level1` program it will write log messages into `./logs/#{id}.txt` files.
+The `level1` program will write log messages into `./logs/#{id}.txt` files.
 Each file will contain one messsage log similar to this one:
 ```
 id=0060cd38-9dd5-4eff-a72f-9705f3dd25d9 service_name=api process=api.233 sample#load_avg_1m=0.849 sample#load_avg_5m=0.561 sample#load_avg_15m=0.202

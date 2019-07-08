@@ -22,7 +22,9 @@ For higher levels we are interested in seeing code that is clean, extensible and
 
 Please also note that:
 
-- Running `$ ruby main.rb` from the level folder should generate the desired output, but of course feel free to add more files if needed.
+- Each `levelX/` folder contains a `levelX` executable. Run them to genreate the input that your solution will process.
+- The solution to each level should live in the corresponding `levelX` folder, (eg: in `main.rb`)
+- Running your solution (eg: `ruby main.rb`) from each levelX folder should generate the desired output, but feel free to add more files if needed.
 
 ## Sending Your Results
 

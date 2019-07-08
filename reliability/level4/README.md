@@ -4,13 +4,16 @@
 
 The level4 program is the same as level2 and level3.
 
-**Note:** The POST requests have a 100ms timeout.
-
 ## Instructions
 
-Write a simple HTTP server that serves the requests, parse and enrich the logs, and store them into a Redis `LIST` on a local Redis instance.
+Write a simple HTTP server that serves the requests, parse and "enrich" the logs, and store them into a Redis `LIST` on a local Redis instance.
 
 The log "enrichment" is done using the provided `SlowComputation` module.
+
+**BEWARE** This module is pretty slow and the level4 program enforces a 100ms timeout.
+
+Please include a short explanation (<200 words) that highlights some of the advantages and shortcommings of your approach.
+
 
 ## How to use `SlowComputation`
 
@@ -32,3 +35,4 @@ eg:
   "slow_computation": "0.0009878"
  }
 ```
+
