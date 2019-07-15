@@ -9,7 +9,7 @@
     "start": "node server/index.js"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3"
