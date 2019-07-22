@@ -85,7 +85,8 @@ print(new_dict)
 ```
 
 As in level 3 you’ll send the resulting JSON in a redis LIST.  
-Again, the HTTP call will timeout after 100ms.
+
+**BEWARE** This library is pretty slow and the HTTP server enforces a 100ms timeout, this means that any request lasting more than this timeout will fail, so we want an implementation that will avoid it.
 
 ## Level SQL
 
