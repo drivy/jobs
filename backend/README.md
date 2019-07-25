@@ -26,7 +26,7 @@ For higher levels we are interested in seeing code that is clean, extensible and
 Please also note that:
 
 - All prices are stored as integers (in cents)
-- Running `$ ruby main.rb` from the level folder should generate the desired output, but of course feel free to add more files if needed.
+- Running `$ ruby main.rb` from the level folder must generate the desired output, but of course feel free to add more files if needed.
 
 ## Sending Your Results
 
