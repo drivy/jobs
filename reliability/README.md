@@ -1,6 +1,6 @@
-# Drivy Reliability Challenge
+# Getaround EU Reliability Challenge (previously Drivy)
 
-Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
+Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
 You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
 
 ## Guidelines
@@ -28,7 +28,7 @@ Please also note that:
 
 ## Sending Your Results
 
-Once you are done, please send your results to someone at Drivy.
+Once you are done, please send your results to someone at Getaround.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
 - If not, use the application form [on every job listing](https://en.drivy.com/jobs).

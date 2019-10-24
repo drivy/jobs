@@ -1,6 +1,6 @@
 # Intro
 
-We are building a peer-to-peer car rental service. Let's call it Drivy :)
+We are building a peer-to-peer car rental service. Let's call it Getaround :)
 
 Here is our plan:
 

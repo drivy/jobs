@@ -1,6 +1,6 @@
-# Drivy Frontend Challenge
+# Getaround EU Frontend Challenge (previously Drivy)
 
-Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
+Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
 You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
 
 ## Guidelines
@@ -22,13 +22,13 @@ We are interested in seeing code that is clean, extensible and robust, so don't 
 
 Please also note that all prices are stored as integers (in cents). Do not forget to format them if needed.
 
-We don't excpet you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Drivy or anywhere else!
+We don't excpet you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Getaround or anywhere else!
 
 This test is framework agnostic, feel free to stick to vanilla HTML/JS/CSS or go with anything else. If you plan on using something else (e.g. React, Vue, TypeScript, styled components, ...), you'll find info on how to set it up in [Parcel's documentation](https://en.parceljs.org/recipes.html).
 
 ## Sending Your Results
 
-Once you are done, please send your results to someone from Drivy.
+Once you are done, please send your results to someone from Getaround.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
 - If not, use the application form [on every job listing](https://en.drivy.com/jobs).
@@ -42,7 +42,7 @@ Good luck!
 
 ## Challenge
 
-We are building a car-sharing platform. Let's call it Drivy :)
+We are building a car-sharing platform. Let's call it Getaround :)
 Car owners can already list their car on our platform and backend developers have provided an API for us to query.
 
 Our plan is now to let any person (let's call them "driver") see cars they could rent.

@@ -1,8 +1,11 @@
-# Drivy Data Engineer Challenge
+# Getaround EU Data Engineering Challenge (previously Drivy)
 
-Looking for a job? Check out our [https://en.drivy.com/jobs](https://en.drivy.com/jobs).
+Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
+You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
+
 
 ## Guidelines
+
 - Clone this repo (do **not** fork it)
 - Solve the levels in ascending order
 - Only do one commit per level and include the `.git` when submiting your test
@@ -17,9 +20,9 @@ For higher levels we are interested in seeing code that is:
 
 ## Challenge
 
-The challenge needs to be resolved in Python.  
-Each level depends on one python 3.7 executable and one to many libraries that you'll have to use.  
-**You can't modify them.**  
+The challenge needs to be resolved in Python.
+Each level depends on one python 3.7 executable and one to many libraries that you'll have to use.
+**You can't modify them.**
 Your solution to each level needs to live in the `level_{N}` directory.
 
 ## Level 1
@@ -84,7 +87,7 @@ print(new_dict)
 # }
 ```
 
-As in level 3 you’ll send the resulting JSON in a redis LIST.  
+As in level 3 you’ll send the resulting JSON in a redis LIST.
 Again, the HTTP call will timeout after 100ms.
 
 ## Level SQL
@@ -93,7 +96,7 @@ Again, the HTTP call will timeout after 100ms.
 
 We provide some (fake) data to play with. You will work with cars and rentals. You can download the CSV files here:
 
-cars: https://cl.ly/eDaw  
+cars: https://cl.ly/eDaw
 rentals: https://cl.ly/eDUn
 
 ### Data description

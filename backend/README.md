@@ -1,6 +1,6 @@
-# Drivy Backend Challenge
+# Getaround EU Backend Challenge (previously Drivy)
 
-Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
+Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
 You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
 
 ## Guidelines
@@ -30,7 +30,7 @@ Please also note that:
 
 ## Sending Your Results
 
-Once you are done, please send your results to someone from Drivy.
+Once you are done, please send your results to someone from Getaround.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
 - If not, use the application form [on every job listing](https://en.drivy.com/jobs).
