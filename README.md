@@ -8,6 +8,7 @@ have to complete one of our code challenges:
 - [Data](https://github.com/drivy/jobs/tree/master/data)
 - [Reliability](https://github.com/drivy/jobs/tree/master/reliability)
 - [Android](https://github.com/drivy/jobs/tree/master/android)
+- [Analytics Engineering](https://github.com/drivy/jobs/tree/master/analytics_engineering)
 
 In order to learn more about [Getaround](https://www.getaround.com/),
 you can head over our [engineering blog](https://drivy.engineering/)
