@@ -1,0 +1,2446 @@
+PAYLOADS
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 12:00:11.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""d61f96d43a7ec134b14bbddd8b0e59ee"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 16:36:48.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""02ad845d2f8ac57a5c265ea083b2169b"",
+  ""timestamp"": ""2021-06-03 09:31:13.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 13:30:13.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 12:43:22.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""195863009ffa903e83ad7fd7e7db63b1"",
+  ""timestamp"": ""2021-06-03 08:30:50.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 14:37:56.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 17:34:04.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 15:55:40.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 10:00:36.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 17:32:08.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""timestamp"": ""2021-06-03 11:30:50.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""483caca5435deb51f412fc8d3932f4a3"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 15:08:44.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 12:30:02.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""timestamp"": ""2021-06-03 11:30:49.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 14:29:10.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 16:30:25.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""e237633a8b413a04dd5028207f03c1c2"",
+  ""timestamp"": ""2021-06-03 13:24:40.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""9bfd0a8df0d02679f02a45b507f64385"",
+  ""timestamp"": ""2021-06-03 10:30:38.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""02ad845d2f8ac57a5c265ea083b2169b"",
+  ""timestamp"": ""2021-06-03 09:30:44.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 16:59:26.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""8011c1672b96b9446e250a64eb52393f"",
+  ""timestamp"": ""2021-06-03 10:30:52.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 14:29:11.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""75cf3ac5e70c76583be3efb5012bd44e"",
+  ""timestamp"": ""2021-06-03 13:30:31.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 16:31:36.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""585375c1448bfa3494298bdd79408081"",
+  ""timestamp"": ""2021-06-03 12:30:44.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 16:21:36.000""
+}"
+"{
+  ""action_id"": ""195863009ffa903e83ad7fd7e7db63b1"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 14:58:47.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""8011c1672b96b9446e250a64eb52393f"",
+  ""timestamp"": ""2021-06-03 10:30:38.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 16:51:29.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""125dcaf4533b218d3c5dfe19e4aa8a35"",
+  ""timestamp"": ""2021-06-03 13:30:36.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""02ad845d2f8ac57a5c265ea083b2169b"",
+  ""timestamp"": ""2021-06-03 09:31:05.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""8011c1672b96b9446e250a64eb52393f"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 17:28:01.000""
+}"
+"{
+  ""action_id"": ""f06d71fb6cc69769c1ac90500d6571c0"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 21:56:27.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 12:04:17.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""c4ca4238a0b923820dcc509a6f75849b"",
+  ""timestamp"": ""2021-06-03 07:31:08.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 18:40:36.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 12:38:15.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 13:59:36.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""timestamp"": ""2021-06-03 11:30:36.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 16:12:48.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 13:05:23.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 13:29:58.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""9bfd0a8df0d02679f02a45b507f64385"",
+  ""timestamp"": ""2021-06-03 11:41:29.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 15:49:25.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""timestamp"": ""2021-06-03 11:30:39.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 16:55:42.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 16:50:48.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""timestamp"": ""2021-06-03 08:30:54.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 18:20:17.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""e237633a8b413a04dd5028207f03c1c2"",
+  ""timestamp"": ""2021-06-03 12:22:43.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 16:02:57.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 17:49:17.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 17:30:55.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 13:10:07.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 15:51:18.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
+  ""timestamp"": ""2021-06-03 10:30:54.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""75cf3ac5e70c76583be3efb5012bd44e"",
+  ""timestamp"": ""2021-06-03 13:30:43.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 15:01:27.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 13:42:18.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 09:30:44.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""038a8a50b863780fe4a43b7a263bb12b"",
+  ""timestamp"": ""2021-06-03 12:30:27.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 11:07:32.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 16:12:54.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""585375c1448bfa3494298bdd79408081"",
+  ""timestamp"": ""2021-06-03 12:30:42.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 11:00:15.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""timestamp"": ""2021-06-03 08:30:50.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 18:06:29.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 12:10:26.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""f06d71fb6cc69769c1ac90500d6571c0"",
+  ""timestamp"": ""2021-06-03 13:07:20.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 16:30:17.000""
+}"
+"{
+  ""action_id"": ""02ad845d2f8ac57a5c265ea083b2169b"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 14:29:04.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 14:52:45.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""timestamp"": ""2021-06-03 11:30:58.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 16:42:18.000""
+}"
+"{
+  ""action_id"": ""b940b38b0563c64d44704d877b2444c0"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 16:58:18.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 12:09:28.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 14:02:30.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 16:25:49.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""6bc071ec71e51c704acd13cdc898fd93"",
+  ""timestamp"": ""2021-06-03 11:43:57.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 16:54:58.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 13:32:18.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""b940b38b0563c64d44704d877b2444c0"",
+  ""timestamp"": ""2021-06-03 10:30:38.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""483caca5435deb51f412fc8d3932f4a3"",
+  ""timestamp"": ""2021-06-03 12:30:54.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 12:59:42.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 17:41:00.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""cf5f238fca8b6e155078aa41c175743a"",
+  ""timestamp"": ""2021-06-03 09:30:51.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=1802810284""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""timestamp"": ""2021-06-03 08:31:18.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 15:32:01.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 16:28:10.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 13:52:10.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""125dcaf4533b218d3c5dfe19e4aa8a35"",
+  ""timestamp"": ""2021-06-03 13:30:38.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 12:56:30.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""195863009ffa903e83ad7fd7e7db63b1"",
+  ""timestamp"": ""2021-06-03 08:30:58.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=BingAds""
+}"
+"{
+  ""action_id"": ""f3ef643d4e9628031516fac81dfba156"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 19:57:20.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""timestamp"": ""2021-06-03 11:30:49.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 16:17:47.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""75cf3ac5e70c76583be3efb5012bd44e"",
+  ""timestamp"": ""2021-06-03 13:30:51.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 14:27:15.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 17:31:13.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""cf5f238fca8b6e155078aa41c175743a"",
+  ""timestamp"": ""2021-06-03 09:30:57.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 14:58:03.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""timestamp"": ""2021-06-03 08:31:12.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 15:36:30.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 18:01:58.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 17:39:30.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 16:41:07.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""483caca5435deb51f412fc8d3932f4a3"",
+  ""timestamp"": ""2021-06-03 12:29:07.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""timestamp"": ""2021-06-03 08:31:10.000""
+}"
+"{
+  ""action_id"": ""1167923154de4dc45df2119c4dfb16d1"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 18:27:51.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""f3ef643d4e9628031516fac81dfba156"",
+  ""timestamp"": ""2021-06-03 13:46:53.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 11:59:48.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""1167923154de4dc45df2119c4dfb16d1"",
+  ""timestamp"": ""2021-06-03 10:30:44.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 18:11:51.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""c4ca4238a0b923820dcc509a6f75849b"",
+  ""timestamp"": ""2021-06-03 07:31:07.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 13:37:20.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 14:07:53.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 12:38:32.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 16:37:02.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 16:59:36.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 16:54:53.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 18:48:54.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""125dcaf4533b218d3c5dfe19e4aa8a35"",
+  ""timestamp"": ""2021-06-03 13:30:26.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 18:16:55.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 13:26:38.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 20:04:45.000""
+}"
+"{
+  ""action_id"": ""d61f96d43a7ec134b14bbddd8b0e59ee"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 15:28:36.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 14:21:00.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 15:02:31.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 15:58:52.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 17:11:30.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 13:14:13.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 16:30:00.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 16:22:52.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 17:04:42.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""038a8a50b863780fe4a43b7a263bb12b"",
+  ""timestamp"": ""2021-06-03 12:30:47.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 15:15:37.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""6bc071ec71e51c704acd13cdc898fd93"",
+  ""timestamp"": ""2021-06-03 12:55:06.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 14:33:32.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 13:03:30.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 17:50:17.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 12:50:12.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 12:59:42.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 13:41:25.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""b940b38b0563c64d44704d877b2444c0"",
+  ""timestamp"": ""2021-06-03 10:30:43.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=Bing - Getaround""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""timestamp"": ""2021-06-03 11:30:33.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 17:23:36.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 15:33:33.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""timestamp"": ""2021-06-03 11:30:36.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""d61f96d43a7ec134b14bbddd8b0e59ee"",
+  ""timestamp"": ""2021-06-03 11:30:52.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""1167923154de4dc45df2119c4dfb16d1"",
+  ""timestamp"": ""2021-06-03 10:30:45.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 17:19:31.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""75cf3ac5e70c76583be3efb5012bd44e"",
+  ""timestamp"": ""2021-06-03 13:30:40.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 18:35:23.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 18:36:42.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 12:52:31.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 18:01:20.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 13:59:36.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 15:08:47.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 16:21:28.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 17:16:07.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 11:21:01.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""8011c1672b96b9446e250a64eb52393f"",
+  ""timestamp"": ""2021-06-03 10:30:44.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 16:26:46.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=1233404_{}""
+}"
+"{
+  ""action_id"": ""6bc071ec71e51c704acd13cdc898fd93"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 20:27:06.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""6bc071ec71e51c704acd13cdc898fd93"",
+  ""timestamp"": ""2021-06-03 12:25:51.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 17:36:54.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 17:17:31.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""8011c1672b96b9446e250a64eb52393f"",
+  ""timestamp"": ""2021-06-03 10:30:39.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=Bing - Getaround""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 12:04:27.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=1233404_{}""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 17:20:42.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 16:55:00.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 13:59:52.000""
+}"
+"{
+  ""action_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 22:56:09.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""75cf3ac5e70c76583be3efb5012bd44e"",
+  ""timestamp"": ""2021-06-03 13:30:21.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""75cf3ac5e70c76583be3efb5012bd44e"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 18:57:44.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""195863009ffa903e83ad7fd7e7db63b1"",
+  ""timestamp"": ""2021-06-03 08:30:59.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 16:23:54.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 13:11:07.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 17:37:49.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 12:38:12.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 12:50:44.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 18:58:39.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 18:49:51.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 18:39:15.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 14:45:27.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""d61f96d43a7ec134b14bbddd8b0e59ee"",
+  ""timestamp"": ""2021-06-03 11:30:48.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 15:13:29.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""43a1437f7f656cd8be7c996c58719e0a"",
+  ""timestamp"": ""2021-06-03 12:30:27.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 11:59:48.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 12:59:42.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 14:35:07.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 14:30:09.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""43a1437f7f656cd8be7c996c58719e0a"",
+  ""timestamp"": ""2021-06-03 12:30:54.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 12:03:11.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 18:02:15.000""
+}"
+"{
+  ""action_id"": ""585375c1448bfa3494298bdd79408081"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 12:59:59.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 12:31:56.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 13:59:36.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 16:07:33.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 16:26:17.000""
+}"
+"{
+  ""action_id"": ""7cbb500edc04c5aee29d74bc3f2dff1e"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 22:26:22.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""195863009ffa903e83ad7fd7e7db63b1"",
+  ""timestamp"": ""2021-06-03 08:31:08.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 13:15:20.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""b940b38b0563c64d44704d877b2444c0"",
+  ""timestamp"": ""2021-06-03 10:30:45.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""43a1437f7f656cd8be7c996c58719e0a"",
+  ""timestamp"": ""2021-06-03 12:30:50.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 12:46:47.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 15:55:48.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""585375c1448bfa3494298bdd79408081"",
+  ""timestamp"": ""2021-06-03 12:30:27.000""
+}"
+"{
+  ""action_id"": ""125dcaf4533b218d3c5dfe19e4aa8a35"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 17:57:57.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 11:59:48.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 14:51:17.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 13:09:34.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 17:25:53.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 15:04:16.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 12:44:37.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 19:40:10.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 13:23:22.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""483caca5435deb51f412fc8d3932f4a3"",
+  ""timestamp"": ""2021-06-03 12:32:10.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 15:36:55.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""02ad845d2f8ac57a5c265ea083b2169b"",
+  ""timestamp"": ""2021-06-03 09:30:57.000""
+}"
+"{
+  ""action_id"": ""43a1437f7f656cd8be7c996c58719e0a"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 13:59:23.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 13:40:16.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""1167923154de4dc45df2119c4dfb16d1"",
+  ""timestamp"": ""2021-06-03 10:30:51.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 13:46:52.000""
+}"
+"{
+  ""action_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 16:28:20.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 13:48:57.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 15:50:08.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 11:59:48.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 16:43:29.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 14:39:42.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""9bfd0a8df0d02679f02a45b507f64385"",
+  ""timestamp"": ""2021-06-03 11:10:09.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 12:51:46.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""40e5fa722621b4033c15162806b7ea2b"",
+  ""timestamp"": ""2021-06-03 13:58:57.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 14:21:15.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 16:37:47.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 17:17:29.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""c4ca4238a0b923820dcc509a6f75849b"",
+  ""timestamp"": ""2021-06-03 07:31:00.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""195863009ffa903e83ad7fd7e7db63b1"",
+  ""timestamp"": ""2021-06-03 08:31:15.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""timestamp"": ""2021-06-03 11:30:44.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 17:17:52.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 19:26:47.000""
+}"
+"{
+  ""action_id"": ""cf5f238fca8b6e155078aa41c175743a"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 13:29:41.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""f3ef643d4e9628031516fac81dfba156"",
+  ""timestamp"": ""2021-06-03 14:01:37.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""e237633a8b413a04dd5028207f03c1c2"",
+  ""timestamp"": ""2021-06-03 13:17:48.000""
+}"
+"{
+  ""action_id"": ""e237633a8b413a04dd5028207f03c1c2"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 20:56:47.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 17:26:23.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 16:50:44.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""b940b38b0563c64d44704d877b2444c0"",
+  ""timestamp"": ""2021-06-03 10:30:54.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 10:30:27.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""8011c1672b96b9446e250a64eb52393f"",
+  ""timestamp"": ""2021-06-03 10:30:57.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""038a8a50b863780fe4a43b7a263bb12b"",
+  ""timestamp"": ""2021-06-03 12:30:37.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=BingAds""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 15:27:44.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
+  ""timestamp"": ""2021-06-03 10:30:38.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""12e9099d922d8928c4087e78fffc4975"",
+  ""timestamp"": ""2021-06-03 12:00:05.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""cf5f238fca8b6e155078aa41c175743a"",
+  ""timestamp"": ""2021-06-03 09:31:00.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 11:15:29.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 12:59:42.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 16:33:48.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 15:01:51.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""timestamp"": ""2021-06-03 11:30:45.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""f06d71fb6cc69769c1ac90500d6571c0"",
+  ""timestamp"": ""2021-06-03 11:09:15.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 12:27:32.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 13:07:41.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 11:25:56.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""timestamp"": ""2021-06-03 08:31:01.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 12:56:26.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 14:14:19.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""56cc33282f4f810d3a644bc652263a7f"",
+  ""timestamp"": ""2021-06-03 11:37:07.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 14:08:42.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""timestamp"": ""2021-06-03 11:30:36.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 17:06:22.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""6bc071ec71e51c704acd13cdc898fd93"",
+  ""timestamp"": ""2021-06-03 11:33:12.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 15:30:22.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""f3ef643d4e9628031516fac81dfba156"",
+  ""timestamp"": ""2021-06-03 14:47:10.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""585375c1448bfa3494298bdd79408081"",
+  ""timestamp"": ""2021-06-03 12:30:33.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 15:20:16.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 18:36:38.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""02ad845d2f8ac57a5c265ea083b2169b"",
+  ""timestamp"": ""2021-06-03 09:30:47.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=BingAds""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 16:19:29.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 18:27:17.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""timestamp"": ""2021-06-03 08:31:03.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 14:57:20.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 14:00:08.000""
+}"
+"{
+  ""action_id"": ""038a8a50b863780fe4a43b7a263bb12b"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 15:58:33.000""
+}"
+"{
+  ""action_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 23:26:02.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 15:14:15.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
+  ""timestamp"": ""2021-06-03 10:30:48.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=Bing - Getaround""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""timestamp"": ""2021-06-03 11:30:41.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 16:50:05.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 12:40:13.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 17:47:12.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 16:03:41.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 11:38:47.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 13:52:13.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 14:14:51.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""038a8a50b863780fe4a43b7a263bb12b"",
+  ""timestamp"": ""2021-06-03 12:30:43.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""038a8a50b863780fe4a43b7a263bb12b"",
+  ""timestamp"": ""2021-06-03 12:30:41.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 14:16:23.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 16:14:46.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 19:33:59.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""f06d71fb6cc69769c1ac90500d6571c0"",
+  ""timestamp"": ""2021-06-03 10:30:38.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 12:00:21.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
+  ""timestamp"": ""2021-06-03 10:30:58.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 10:59:54.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 13:00:26.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 16:14:32.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 16:45:25.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""483caca5435deb51f412fc8d3932f4a3"",
+  ""timestamp"": ""2021-06-03 13:05:32.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 19:13:19.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 14:51:02.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""timestamp"": ""2021-06-03 11:30:54.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 19:14:16.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 18:05:49.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 18:29:40.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 15:11:16.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 12:59:42.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 16:08:54.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 16:01:44.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
+  ""timestamp"": ""2021-06-03 13:48:27.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 14:56:55.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 17:00:34.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 11:55:36.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 13:27:05.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""timestamp"": ""2021-06-03 11:30:40.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""125dcaf4533b218d3c5dfe19e4aa8a35"",
+  ""timestamp"": ""2021-06-03 13:30:41.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 14:19:11.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 15:17:41.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""ed89a83ee80a78ab44cbc1b0c34e9753"",
+  ""timestamp"": ""2021-06-03 16:09:02.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 15:13:39.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 16:16:08.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 17:26:43.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 13:46:02.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""c4ca4238a0b923820dcc509a6f75849b"",
+  ""timestamp"": ""2021-06-03 07:30:56.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""d5b74c78de83e63c50a70bc02ec1ecbd"",
+  ""timestamp"": ""2021-06-03 17:53:28.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""43a1437f7f656cd8be7c996c58719e0a"",
+  ""timestamp"": ""2021-06-03 12:30:40.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""c4ca4238a0b923820dcc509a6f75849b"",
+  ""timestamp"": ""2021-06-03 07:31:03.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""585375c1448bfa3494298bdd79408081"",
+  ""timestamp"": ""2021-06-03 12:30:29.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=1802810284""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""f06d71fb6cc69769c1ac90500d6571c0"",
+  ""timestamp"": ""2021-06-03 11:33:27.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 17:48:35.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 12:41:26.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""b249b5e0494c74b56eabaeaa08d04f5a"",
+  ""timestamp"": ""2021-06-03 15:42:12.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 15:37:27.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 14:12:07.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""b940b38b0563c64d44704d877b2444c0"",
+  ""timestamp"": ""2021-06-03 10:30:47.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 11:45:36.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 17:03:56.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 18:20:48.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""cf5f238fca8b6e155078aa41c175743a"",
+  ""timestamp"": ""2021-06-03 09:31:01.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""timestamp"": ""2021-06-03 11:30:44.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""1167923154de4dc45df2119c4dfb16d1"",
+  ""timestamp"": ""2021-06-03 10:30:46.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 11:43:52.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 16:21:33.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 13:34:39.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""e237633a8b413a04dd5028207f03c1c2"",
+  ""timestamp"": ""2021-06-03 12:18:19.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 15:59:25.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 17:23:59.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 16:41:41.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""9bfd0a8df0d02679f02a45b507f64385"",
+  ""timestamp"": ""2021-06-03 12:45:57.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""timestamp"": ""2021-06-03 11:30:44.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 12:31:17.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""6bc071ec71e51c704acd13cdc898fd93"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 18:57:35.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 16:43:01.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 15:15:26.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 19:54:03.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""9dee5f6942b84de13f76d9f70b07eb85"",
+  ""timestamp"": ""2021-06-03 13:44:17.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""7c9d5fbcdc5ae18a05e0b792cfccafbf"",
+  ""timestamp"": ""2021-06-03 18:38:45.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""88bce6f1bd04b8521f1167b5a6dec118"",
+  ""timestamp"": ""2021-06-03 16:14:42.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 16:14:00.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 17:14:35.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
+  ""timestamp"": ""2021-06-03 10:30:57.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""48044bf058c2d7d21b311b173a0ca7e5"",
+  ""timestamp"": ""2021-06-03 18:42:45.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""d61f96d43a7ec134b14bbddd8b0e59ee"",
+  ""timestamp"": ""2021-06-03 11:30:53.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 14:01:58.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""9ed469ac3b8ef2d21d85e191c8cd24cd"",
+  ""timestamp"": ""2021-06-03 16:31:00.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""a03bdd25682780f8661fa342cadfadbf"",
+  ""timestamp"": ""2021-06-03 16:02:03.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 18:32:18.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""ddd2e8c220072a5951b37078518ba809"",
+  ""timestamp"": ""2021-06-03 17:42:27.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""d972c142b3ea3d93fa4d3ac5d1b03e40"",
+  ""timestamp"": ""2021-06-03 14:21:53.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 16:52:46.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""125dcaf4533b218d3c5dfe19e4aa8a35"",
+  ""timestamp"": ""2021-06-03 13:30:21.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 15:28:00.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""3cce89076f5c4f5e6d2e5a55841166c1"",
+  ""timestamp"": ""2021-06-03 11:25:56.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=1233404_{}""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""137d60699bacbcc0508f885a501bbb20"",
+  ""timestamp"": ""2021-06-03 11:11:42.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 14:09:38.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""f06d71fb6cc69769c1ac90500d6571c0"",
+  ""timestamp"": ""2021-06-03 12:15:07.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""92a711480f80a6d21f2ff5643393461f"",
+  ""timestamp"": ""2021-06-03 15:19:00.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 17:15:51.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""f3ef643d4e9628031516fac81dfba156"",
+  ""timestamp"": ""2021-06-03 13:30:21.000""
+}"
+"{
+  ""action_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 23:55:52.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""9bfd0a8df0d02679f02a45b507f64385"",
+  ""timestamp"": ""2021-06-03 12:34:06.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 14:23:49.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 16:51:59.000""
+}"
+"{
+  ""action_id"": ""483caca5435deb51f412fc8d3932f4a3"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 21:26:29.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 15:06:36.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 17:33:28.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 19:00:36.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""a97b99dffad9a9cfd7b61ea9d0a0831a"",
+  ""timestamp"": ""2021-06-03 19:33:07.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 18:56:48.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 13:46:52.000""
+}"
+"{
+  ""action_id"": ""9bfd0a8df0d02679f02a45b507f64385"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 19:27:35.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 14:45:18.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 14:15:35.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""cf5f238fca8b6e155078aa41c175743a"",
+  ""timestamp"": ""2021-06-03 09:30:44.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""80db92b0637cb7118f92e127f9019554"",
+  ""timestamp"": ""2021-06-03 11:12:11.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""93360a389c8af78b575d020687b92a38"",
+  ""timestamp"": ""2021-06-03 16:34:02.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 12:59:42.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""303f2c22a233ca7dacb21223d40822e1"",
+  ""timestamp"": ""2021-06-03 13:59:36.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""e4878bf957c08a7ceaa9da9677015254"",
+  ""timestamp"": ""2021-06-03 11:59:48.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 12:43:39.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""e237633a8b413a04dd5028207f03c1c2"",
+  ""timestamp"": ""2021-06-03 11:30:32.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""e2e536cebe0aee01493dbece3a42cf40"",
+  ""timestamp"": ""2021-06-03 16:22:58.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=driver_sends_message&utm_medium=email&utm_campaign=notifications""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 16:37:09.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""afe6feff51a8544b620bae834da406a3"",
+  ""timestamp"": ""2021-06-03 17:34:25.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""e9cfad435db9ad160b69fc0df3186a8f"",
+  ""timestamp"": ""2021-06-03 17:09:42.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""f3ef643d4e9628031516fac81dfba156"",
+  ""timestamp"": ""2021-06-03 13:35:17.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=gabing""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""75e52536221d4b6a5788a66054c057ab"",
+  ""timestamp"": ""2021-06-03 17:26:34.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""1c8c442e6d28ea78b2d1602b4e27a159"",
+  ""timestamp"": ""2021-06-03 17:41:01.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""4d4670b3c218e9bf35df4f1a5c418160"",
+  ""timestamp"": ""2021-06-03 18:16:02.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""d69a346be5f3f1bef9b35ede8a818439"",
+  ""timestamp"": ""2021-06-03 18:31:13.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""1167923154de4dc45df2119c4dfb16d1"",
+  ""timestamp"": ""2021-06-03 10:30:38.000""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
+  ""timestamp"": ""2021-06-03 14:59:31.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""timestamp"": ""2021-06-03 08:31:04.000""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""15dfeaed9b9157eee521df71b3cf4ef0"",
+  ""timestamp"": ""2021-06-03 14:20:57.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""6f34e74684cb3a27eeb9fc6c62c1d07c"",
+  ""timestamp"": ""2021-06-03 13:24:39.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=driversparis""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""f7dd5d429a9ccb122c86908e234eb8eb"",
+  ""timestamp"": ""2021-06-03 11:53:40.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
+  ""anonymous_id"": ""36aa1c1c8c691c345544a76f5f8beacd"",
+  ""timestamp"": ""2021-06-03 14:00:51.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""5ba1de412e01037f8843d097dcfaf28a"",
+  ""timestamp"": ""2021-06-03 16:10:13.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=google&utm_medium=sea&utm_campaign=129394940""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""73aa23ef8363441b157cde7d6cd0f634"",
+  ""timestamp"": ""2021-06-03 14:16:57.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 16:35:30.000""
+}"
+"{
+  ""action_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""anonymous_id"": ""140c93142d2695247f269ee4af3001b0"",
+  ""timestamp"": ""2021-06-03 16:10:22.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""c8612aa3e32742f45386cbfed5b868fb"",
+  ""timestamp"": ""2021-06-03 16:45:45.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""d61f96d43a7ec134b14bbddd8b0e59ee"",
+  ""timestamp"": ""2021-06-03 11:30:40.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=BingAds""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""6588dcc9c8cc809e661f977c517442be"",
+  ""timestamp"": ""2021-06-03 13:24:55.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""timestamp"": ""2021-06-03 08:30:58.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=facebook&utm_medium=cpc&utm_campaign=facebook_posts""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
+  ""timestamp"": ""2021-06-03 11:59:48.000""
+}"
+"{
+  ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
+  ""anonymous_id"": ""43a1437f7f656cd8be7c996c58719e0a"",
+  ""timestamp"": ""2021-06-03 12:30:33.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=cpc&utm_campaign=1802810284""
+}"
+"{
+  ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
+  ""anonymous_id"": ""9f41f9f1c434718ae6e50ffba61152d0"",
+  ""timestamp"": ""2021-06-03 08:30:50.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""02e74f10e0327ad868d138f2b4fdd6f0"",
+  ""timestamp"": ""2021-06-03 11:30:12.000""
+}"
+"{
+  ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
+  ""anonymous_id"": ""69d203247aed2ab25273eac107065894"",
+  ""timestamp"": ""2021-06-03 19:16:53.000""
+}"
+"{
+  ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
+  ""anonymous_id"": ""b7b7f1f20b3a7bc8e85fb2c68abe65e8"",
+  ""timestamp"": ""2021-06-03 14:25:35.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""03b4528282851fa9f10e6c506bedc91e"",
+  ""timestamp"": ""2021-06-03 16:50:27.000""
+}"
