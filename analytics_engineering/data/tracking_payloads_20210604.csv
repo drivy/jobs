@@ -95,7 +95,8 @@ PAYLOADS
 "{
   ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
   ""anonymous_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
-  ""timestamp"": ""2021-06-04 00:28:31.000""
+  ""timestamp"": ""2021-06-04 00:28:31.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=sea&utm_campaign=other""
 }"
 "{
   ""action_id"": ""e4c2e8edac362acab7123654b9e73432"",
@@ -690,7 +691,8 @@ PAYLOADS
 "{
   ""action_id"": ""d1bd83a33f1a841ab7fda32449746cc4"",
   ""anonymous_id"": ""cb3b88409b992ad809a378b1e4d65cc2"",
-  ""timestamp"": ""2021-06-04 07:14:36.000""
+  ""timestamp"": ""2021-06-04 07:14:36.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=bing&utm_medium=sea&utm_campaign=other""
 }"
 "{
   ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
