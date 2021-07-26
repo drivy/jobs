@@ -721,7 +721,8 @@ PAYLOADS
 "{
   ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
   ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
-  ""timestamp"": ""2021-06-03 15:58:52.000""
+  ""timestamp"": ""2021-06-03 15:58:52.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=lycos&utm_medium=sea&utm_campaign=other""
 }"
 "{
   ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
@@ -865,14 +866,14 @@ PAYLOADS
   ""timestamp"": ""2021-06-03 18:35:23.000""
 }"
 "{
-  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
-  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
-  ""timestamp"": ""2021-06-03 18:36:42.000""
-}"
-"{
   ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
   ""anonymous_id"": ""96a64b03f04a3b74898ec8ed78322795"",
   ""timestamp"": ""2021-06-03 12:52:31.000""
+}"
+"{
+  ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
+  ""anonymous_id"": ""722b64cc1d98eff6ecddb98fd05e0eb5"",
+  ""timestamp"": ""2021-06-03 18:36:42.000""
 }"
 "{
   ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
@@ -1333,7 +1334,8 @@ PAYLOADS
 "{
   ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
   ""anonymous_id"": ""4a646b1b2110f8fa7a3f4a6cedb151b0"",
-  ""timestamp"": ""2021-06-03 14:21:15.000""
+  ""timestamp"": ""2021-06-03 14:21:15.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=caramail&utm_medium=sea&utm_campaign=other""
 }"
 "{
   ""action_id"": ""01deebfa87b938c89ecb3dcb4effcbe2"",
@@ -1726,7 +1728,8 @@ PAYLOADS
 "{
   ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
   ""anonymous_id"": ""877583b20242df11218fe61eb534fc09"",
-  ""timestamp"": ""2021-06-03 16:45:25.000""
+  ""timestamp"": ""2021-06-03 16:45:25.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=caramail&utm_medium=sea&utm_campaign=other""
 }"
 "{
   ""action_id"": ""336669dbe720233ed5577ddf81b653d3"",
@@ -1965,7 +1968,8 @@ PAYLOADS
 "{
   ""action_id"": ""07078a97d66756f213dbca3e379bf084"",
   ""anonymous_id"": ""1167923154de4dc45df2119c4dfb16d1"",
-  ""timestamp"": ""2021-06-03 10:30:46.000""
+  ""timestamp"": ""2021-06-03 10:30:46.000"",
+  ""url"": ""https://fr.getaround.com/login?utm_source=msn&utm_medium=sea&utm_campaign=other""
 }"
 "{
   ""action_id"": ""55c82b601deae028c1c5e87fd820923d"",
