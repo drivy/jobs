@@ -3,19 +3,20 @@
 Looking for a job? Check out our [open positions](https://www.welcometothejungle.com/en/companies/getaround/jobs).
 You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
 
+
 ## General guidelines
 
 - Clone this repo (do **not** fork it)
 - Solve the exercises in  ascending order
-- Only do one commit per exercise, include the `.git` when submiting your work
+- Only do one commit per exercise
 
 Please do the simplest thing that could work for the exercise you're currently solving.
+Make sure you use markdown files to document your approach, difficulties and workarounds for each exercise.
 
-For higher levels applicants we are interested in seeing code that is:
+This case should not take more than 3 hours.
+In case you feel like you get stuck for too long, write down what the ideal solution should look like (use pseudocode: https://en.wikipedia.org/wiki/Pseudocode)
+Send an email to the hiring manager who has sent you the test in case you feel like you're stuck for too long.
 
-- Clean
-- Extensible
-- Reliable
 
 ## Challenge specifications
 
@@ -23,13 +24,15 @@ The challenge needs to be resolved in PostgreSQL.
 Exercises depend on datasets available in `./data/*`
 **You can't modify them.**
 
-Your solution to exercise {N} needs to live in the `worksheets_{N}` directory as .sql files. If you need to write multiple SQL queries for an answer, separate them with `;` characters, a linebreak and 2 spaces.
+Your solution to exercise {N} needs to live in the `worksheets_{N}` directory as .sql or .py files. 
+
+If you need to write multiple SQL queries for an answer, separate them with `;` characters, a linebreak and 2 spaces.
 **The SQL queries you provide need to be working.**
 
 For certain parts of the challenge, you will be asked to provide written answers, in these cases, please submit them in `worksheets_{N}` as markdown files.
 
 
-## Exercise 0: Setup and brief
+## Exercise 1: Setup and brief
 
 For this challenge, you are provided with payloads that have been generated whenever a user triggers an action relevant to our analytics on the platform. They are available at `./data/*`
 
@@ -43,27 +46,36 @@ With an optional additional key:
 
 **DISCLAIMER**: these data are randomly faked end to end
 
-### 0.1
+### 1.1
 
 Create a local PostgreSQL instance
+If you are a Mac user, use the following tutorial to spawn an instance locally: https://www.codementor.io/@engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
 
-### 0.2
+### 1.2
 
-Create a table named `raw_payloads` in the SQL instance you have just created and insert the payloads provided in `./data/tracking_payloads_20210603.csv`.
+Create a table named `raw_payloads` in the SQL instance you have just created and insert the payloads provided in `./data/tracking_payloads_20210603.csv`
+Do not try to parse them yet, just create one column of raw data.
 
-### 0.3
+### 1.3
 
-Parse the json objects you have inserted in `raw_payloads`: each key should become a column, each value should become a row value.
+Now that you have ingested your raw data in the `raw_payloads` table, write a parsing query to structure the json objects: 
+- each key should become a column
+- each value should become a row value
+
 With your parsing query, create another table named `events` and insert your parsed version of `raw_payloads` inside of it.
 
+Note: alternatively, you can use python to write a script that will ingest the raw data from `raw_payloads` and load the parsed data in the `events` table.
 
-## Exercise 1: Sessions
+
+## Exercise 2: Sessions
 
 We want to aggregate events together to analyse user behavior over a certain period of time.
 
-### 1.1 
+### 2.1 
 
-Create a table that aggregates events per session of events. Sessions are segmented period of activity we observe for a user. In this exercise, we consider that if a user stops their activity for more than 30 minutes, the session as ended. If a user starts their activity again, then a new session begins until the user stops for more than 30 minutes again.
+Create a table that aggregates events per session of events. Sessions are segmented period of activity we observe for a user. In this exercise, we consider that if a user stops their activity for more than 30 minutes, the session as ended. 
+
+If a user starts their activity again, then a new session begins until the user stops for more than 30 minutes again.
 
 The SQL query you design to create this table should ultimately respect the following format:
 - `anonymous_id`
@@ -71,39 +83,29 @@ The SQL query you design to create this table should ultimately respect the foll
 - `session_start`
 - `session_end`
 
+Note: again, alternatively, you can use python to do this work.
+
 Explain your design in your markdown file.
 
-### 1.2 
+### 2.2 
 
-We now want to know which marketing action has attracted the user to begin their session. Thanksfully, `url` provides us with `utm_source`, `utm_medium` and `utm_campaign` details we can use to find out. For more details about UTMs, check out this [blog post](https://buffer.com/library/utm-guide/)
+We now want to know which marketing campaign has attracted the user to begin their session. 
+
+Thanksfully, `url` provides us with `utm_source`, `utm_medium` and `utm_campaign` details we can use to find out. 
+For more details about UTMs, you can check out this [blog post](https://buffer.com/library/utm-guide/)
 
 Enrich your `session` table with a `source` column that provides you with information about the marketing campaigns that can be associated to each `session_id`.
 
-
-## Exercise 2: Incremental pipeline
-
-Another set of raw payloads is provided to you in `./data/tracking_payloads_20210604.csv`.
-
-### 2.1
-
-Write the serie of queries that would succesively update `raw_payloads`, `events` and `sessions` in your SQL file.
+Note: again, alternatively, you can use python to do this work.
 
 Explain your approach in the markdown file.
-
-### 2.2
-
-Do you observe issues in your computations because of this additional file? 
-
-If so, create a second SQL file to show us how you would adapt your transformation queries to produce a reliable session table for analytics purposes.
-
-List the issues you have noticed and explain how your new design fixes them in your markdown file.
-
 
 ## Exercise 3: Challenge performance
 
 As you can guess, in reality, millions of payloads are generated by platforms like Getaround everyday.
 
-Without any additional dataset, find a way to challenge your query with a larger volume of data (> 1000 rows). Write your workaround methods in a SQL file.
+Find a way to challenge your query with a larger volume of data (> 1000 rows). 
+Write your workaround methods in a SQL file and/or Python file.
 
 Explain your approach in the markdown file.
 
@@ -114,7 +116,7 @@ Data quality matters for analytics.
 
 ### 4.1 
 
-Write queries that you could run to test your raw AND transformed tables.
+Write SQL queries that you would run to test your raw AND transformed tables.
 The test should challenge the quality and consistency of the data you are provided with and the data you have transformed.
 
 ### 4.2
