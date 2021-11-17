@@ -14,7 +14,7 @@ Please do the simplest thing that could work for the exercise you're currently s
 Make sure you use markdown files to document your approach, difficulties and workarounds for each exercise.
 
 This case should not take more than 3 hours.
-In case you feel like you get stuck for too long, write down what the ideal solution should look like (use pseudocode: https://en.wikipedia.org/wiki/Pseudocode)
+In case you feel like you get stuck for too long, write down what the ideal solution should look like (use [pseudocode](https://en.wikipedia.org/wiki/Pseudocode))
 Send an email to the hiring manager who has sent you the test in case you feel like you're stuck for too long.
 
 
@@ -48,12 +48,18 @@ With an optional additional key:
 
 ### 1.1
 
-Create a local PostgreSQL instance
-If you are a Mac user, use the following tutorial to spawn an instance locally: https://www.codementor.io/@engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb
+Create a local PostgreSQL instance. 
+
+If you are a Mac user, [use the following tutorial to spawn an instance locally](https://www.codementor.io/@engineerapart/getting-started-with-postgresql-on-mac-osx-are8jcopb)
+
+If you  are a PC user, [you can use the following](https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_PostgreSQL.htm)
+
+Note: you can use whatever SQL technology you like best, this part is important to help you test your queries in the following questions. Postgres is merely an option.
 
 ### 1.2
 
 Create a table named `raw_payloads` in the SQL instance you have just created and insert the payloads provided in `./data/tracking_payloads_20210603.csv`
+
 Do not try to parse them yet, just create one column of raw data.
 
 ### 1.3
