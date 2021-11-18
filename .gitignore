@@ -11,3 +11,4 @@ backend/level5/data/output.json
 frontend/node_modules
 frontend/dist
 frontend/.cache
+data_science/data/*.csv
