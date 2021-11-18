@@ -43,6 +43,8 @@ With an optional additional key:
 
 **DISCLAIMER**: these data are randomly faked end to end
 
+Note: we advise to use PostgreSQL but any SQL technology should work as long as you document the commands you have run. Just make sure you are able to execute the query you are submitting in the case to test them.
+
 ### 1.1
 
 Create a local PostgreSQL instance
