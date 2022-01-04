@@ -22,7 +22,7 @@ We are interested in seeing code that is clean, extensible and robust, so don't 
 
 Please also note that all prices are stored as integers (in cents). Do not forget to format them if needed.
 
-We don't excpet you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Getaround or anywhere else!
+We don't expect you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Getaround or anywhere else!
 
 This test is framework agnostic, feel free to stick to vanilla HTML/JS/CSS or go with anything else. If you plan on using something else (e.g. React, Vue, TypeScript, styled components, ...), you'll find info on how to set it up in [Parcel's documentation](https://en.parceljs.org/recipes.html).
 
