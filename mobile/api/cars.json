@@ -2,7 +2,6 @@
     {
        "brand":"Citroen",
        "model":"C3",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/13.jpg",
        "price_per_day":17,
        "rating":{
           "average":4.697711,
@@ -10,7 +9,7 @@
        },
        "owner":{
           "name":"Elmira Sorrell",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/howard.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/13.jpg",
           "rating":{
              "average":4.318206,
              "count":255
@@ -20,7 +19,6 @@
     {
        "brand":"Citroen",
        "model":"Xsara Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/33.jpg",
        "price_per_day":27,
        "rating":{
           "average":4.7544947,
@@ -28,7 +26,7 @@
        },
        "owner":{
           "name":"Britni Fitch",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/sonia.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/33.jpg",
           "rating":{
              "average":4.7478724,
              "count":107
@@ -38,7 +36,6 @@
     {
        "brand":"Seat",
        "model":"Ibiza",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/13.jpg",
        "price_per_day":35,
        "rating":{
           "average":4.821972,
@@ -46,7 +43,7 @@
        },
        "owner":{
           "name":"Kenna Clemons",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/olivier.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/13.jpg",
           "rating":{
              "average":3.1331077,
              "count":67
@@ -56,7 +53,6 @@
     {
        "brand":"Citroen",
        "model":"C3",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/19.jpg",
        "price_per_day":41,
        "rating":{
           "average":4.880431,
@@ -64,7 +60,7 @@
        },
        "owner":{
           "name":"Kasey Ayres",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/marius.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/19.jpg",
           "rating":{
              "average":3.9378479,
              "count":167
@@ -74,7 +70,6 @@
     {
        "brand":"Citroen",
        "model":"C4 Grand Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/31.jpg",
        "price_per_day":44,
        "rating":{
           "average":4.403592,
@@ -82,7 +77,7 @@
        },
        "owner":{
           "name":"Valeri Kaminski",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/nicolas.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/31.jpg",
           "rating":{
              "average":4.091597,
              "count":188
@@ -92,7 +87,6 @@
     {
        "brand":"Kia",
        "model":"Picanto",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/14.jpg",
        "price_per_day":22,
        "rating":{
           "average":4.4706297,
@@ -100,7 +94,7 @@
        },
        "owner":{
           "name":"Rosario Hawley",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/gaetan.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/14.jpg",
           "rating":{
              "average":4.9118557,
              "count":200
@@ -110,7 +104,6 @@
     {
        "brand":"Citroen",
        "model":"Xsara Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/23.jpg",
        "price_per_day":30,
        "rating":{
           "average":4.028204,
@@ -118,7 +111,7 @@
        },
        "owner":{
           "name":"Hai Kuykendall",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/perrine.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/23.jpg",
           "rating":{
              "average":3.2815046,
              "count":16
@@ -128,7 +121,6 @@
     {
        "brand":"Fiat",
        "model":"Punto",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/24.jpg",
        "price_per_day":44,
        "rating":{
           "average":4.0959406,
@@ -136,7 +128,7 @@
        },
        "owner":{
           "name":"Kenna Clemons",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/olivier.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/24.jpg",
           "rating":{
              "average":3.7268405,
              "count":252
@@ -146,7 +138,6 @@
     {
        "brand":"Citroen",
        "model":"C3 Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/13.jpg",
        "price_per_day":47,
        "rating":{
           "average":3.040584,
@@ -154,7 +145,7 @@
        },
        "owner":{
           "name":"Sylvie Belanger",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/arnold.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/13.jpg",
           "rating":{
              "average":4.2138176,
              "count":177
@@ -164,7 +155,6 @@
     {
        "brand":"Citroen",
        "model":"Saxo",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/28.jpg",
        "price_per_day":13,
        "rating":{
           "average":3.0993094,
@@ -172,7 +162,7 @@
        },
        "owner":{
           "name":"Emmaline Thorne",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/mathilde.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/28.jpg",
           "rating":{
              "average":4.768528,
              "count":141
@@ -182,7 +172,6 @@
     {
        "brand":"Citroen",
        "model":"Berlingo Multispace",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/35.jpg",
        "price_per_day":21,
        "rating":{
           "average":3.4146607,
@@ -190,7 +179,7 @@
        },
        "owner":{
           "name":"Belen Jobe",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/paulin.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/35.jpg",
           "rating":{
              "average":3.3969579,
              "count":101
@@ -200,7 +189,6 @@
     {
        "brand":"Kia",
        "model":"Picanto",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/5.jpg",
        "price_per_day":31,
        "rating":{
           "average":3.4750695,
@@ -208,7 +196,7 @@
        },
        "owner":{
           "name":"Britni Fitch",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/sonia.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/5.jpg",
           "rating":{
              "average":3.5765932,
              "count":161
@@ -218,7 +206,6 @@
     {
        "brand":"Seat",
        "model":"Ibiza",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/22.jpg",
        "price_per_day":34,
        "rating":{
           "average":3.8107965,
@@ -226,7 +213,7 @@
        },
        "owner":{
           "name":"Aimee Elliot",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/jean.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/22.jpg",
           "rating":{
              "average":4.4249206,
              "count":118
@@ -236,7 +223,6 @@
     {
        "brand":"Renault",
        "model":"Clio",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/16.jpg",
        "price_per_day":16,
        "rating":{
           "average":3.8758695,
@@ -244,7 +230,7 @@
        },
        "owner":{
           "name":"Emmaline Thorne",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/mathilde.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/16.jpg",
           "rating":{
              "average":4.620288,
              "count":82
@@ -254,7 +240,6 @@
     {
        "brand":"Peugeot",
        "model":"5008",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/34.jpg",
        "price_per_day":32,
        "rating":{
           "average":3.6854682,
@@ -262,7 +247,7 @@
        },
        "owner":{
           "name":"Allie Savoy",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/eloise.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/34.jpg",
           "rating":{
              "average":3.2330704,
              "count":186
@@ -272,7 +257,6 @@
     {
        "brand":"Hyundai",
        "model":"i20",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/28.jpg",
        "price_per_day":18,
        "rating":{
           "average":3.751248,
@@ -280,7 +264,7 @@
        },
        "owner":{
           "name":"Claudie Gentry",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/kane.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/28.jpg",
           "rating":{
              "average":3.8033586,
              "count":246
@@ -290,7 +274,6 @@
     {
        "brand":"Citroen",
        "model":"C3",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/27.jpg",
        "price_per_day":41,
        "rating":{
           "average":4.526775,
@@ -298,7 +281,7 @@
        },
        "owner":{
           "name":"Almeda Valle",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/david.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/27.jpg",
           "rating":{
              "average":4.6474724,
              "count":215
@@ -308,7 +291,6 @@
     {
        "brand":"Citroen",
        "model":"C2",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/34.jpg",
        "price_per_day":35,
        "rating":{
           "average":4.5818157,
@@ -316,7 +298,7 @@
        },
        "owner":{
           "name":"Emmaline Thorne",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/mathilde.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/34.jpg",
           "rating":{
              "average":4.3271832,
              "count":219
@@ -326,7 +308,6 @@
     {
        "brand":"Renault",
        "model":"Scénic",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/27.jpg",
        "price_per_day":27,
        "rating":{
           "average":4.9011264,
@@ -334,7 +315,7 @@
        },
        "owner":{
           "name":"Deidre Beauchamp",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/audrey.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/27.jpg",
           "rating":{
              "average":3.9634335,
              "count":235
@@ -344,7 +325,6 @@
     {
        "brand":"Renault",
        "model":"Clio",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/11.jpg",
        "price_per_day":17,
        "rating":{
           "average":4.957422,
@@ -352,7 +332,7 @@
        },
        "owner":{
           "name":"Deidre Beauchamp",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/audrey.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/11.jpg",
           "rating":{
              "average":3.0180674,
              "count":47
@@ -362,7 +342,6 @@
     {
        "brand":"Citroen",
        "model":"C4 Grand Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/41.jpg",
        "price_per_day":20,
        "rating":{
           "average":4.293081,
@@ -370,7 +349,7 @@
        },
        "owner":{
           "name":"Savanna Hough",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/hugo.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/41.jpg",
           "rating":{
              "average":4.983462,
              "count":188
@@ -380,7 +359,6 @@
     {
        "brand":"Citroen",
        "model":"Xsara Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/3.jpg",
        "price_per_day":14,
        "rating":{
           "average":4.3622823,
@@ -388,7 +366,7 @@
        },
        "owner":{
           "name":"Glady Gipson",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/kim.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/3.jpg",
           "rating":{
              "average":4.0538273,
              "count":128
@@ -398,7 +376,6 @@
     {
        "brand":"Citroen",
        "model":"C4 Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/24.jpg",
        "price_per_day":22,
        "rating":{
           "average":4.1680274,
@@ -406,7 +383,7 @@
        },
        "owner":{
           "name":"Elmira Sorrell",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/howard.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/24.jpg",
           "rating":{
              "average":3.6744137,
              "count":288
@@ -416,7 +393,6 @@
     {
        "brand":"Peugeot",
        "model":"207",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/13.jpg",
        "price_per_day":12,
        "rating":{
           "average":4.237507,
@@ -424,7 +400,7 @@
        },
        "owner":{
           "name":"Voncile Hamer",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/steffen.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/13.jpg",
           "rating":{
              "average":3.3697057,
              "count":164
@@ -434,7 +410,6 @@
     {
        "brand":"Suzuki",
        "model":"swift",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/34.jpg",
        "price_per_day":23,
        "rating":{
           "average":3.1800709,
@@ -442,7 +417,7 @@
        },
        "owner":{
           "name":"Eloy Trotter",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/quentin.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/34.jpg",
           "rating":{
              "average":4.8846827,
              "count":225
@@ -452,7 +427,6 @@
     {
        "brand":"Fiat",
        "model":"Panda",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/29.jpg",
        "price_per_day":45,
        "rating":{
           "average":3.240968,
@@ -460,7 +434,7 @@
        },
        "owner":{
           "name":"Alica Connell",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/emily.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/29.jpg",
           "rating":{
              "average":4.189346,
              "count":69
@@ -470,7 +444,6 @@
     {
        "brand":"Renault",
        "model":"Clio Campus",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/27.jpg",
        "price_per_day":21,
        "rating":{
           "average":3.3044863,
@@ -478,7 +451,7 @@
        },
        "owner":{
           "name":"Chelsey Salisbury",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/nikolai.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/27.jpg",
           "rating":{
              "average":3.5667765,
              "count":133
@@ -488,7 +461,6 @@
     {
        "brand":"Ford",
        "model":"Fiesta",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/27.jpg",
        "price_per_day":47,
        "rating":{
           "average":3.3666296,
@@ -496,7 +468,7 @@
        },
        "owner":{
           "name":"Savanna Hough",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/hugo.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/27.jpg",
           "rating":{
              "average":3.4965193,
              "count":153
@@ -506,7 +478,6 @@
     {
        "brand":"Suzuki",
        "model":"swift",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/3.jpg",
        "price_per_day":42,
        "rating":{
           "average":3.8898582,
@@ -514,7 +485,7 @@
        },
        "owner":{
           "name":"Cassy Burnette",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/marc.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/3.jpg",
           "rating":{
              "average":4.5329566,
              "count":190
@@ -524,7 +495,6 @@
     {
        "brand":"Fiat",
        "model":"Punto",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/24.jpg",
        "price_per_day":32,
        "rating":{
           "average":3.9531965,
@@ -532,7 +502,7 @@
        },
        "owner":{
           "name":"Britni Fitch",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/sonia.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/24.jpg",
           "rating":{
              "average":4.478217,
              "count":130
@@ -542,7 +512,6 @@
     {
        "brand":"Ford",
        "model":"C-Max",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/36.jpg",
        "price_per_day":32,
        "rating":{
           "average":3.5146246,
@@ -550,7 +519,7 @@
        },
        "owner":{
           "name":"Almeda Valle",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/david.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/36.jpg",
           "rating":{
              "average":3.840045,
              "count":50
@@ -560,7 +529,6 @@
     {
        "brand":"Citroen",
        "model":"C3 Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/7.jpg",
        "price_per_day":26,
        "rating":{
           "average":3.5782325,
@@ -568,7 +536,7 @@
        },
        "owner":{
           "name":"Emmaline Thorne",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/mathilde.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/7.jpg",
           "rating":{
              "average":3.1603808,
              "count":270
@@ -578,7 +546,6 @@
     {
        "brand":"Kia",
        "model":"Picanto",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/32.jpg",
        "price_per_day":26,
        "rating":{
           "average":3.029051,
@@ -586,7 +553,7 @@
        },
        "owner":{
           "name":"Cammie Sells",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/isabelle.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/32.jpg",
           "rating":{
              "average":4.681478,
              "count":178
@@ -596,7 +563,6 @@
     {
        "brand":"Renault",
        "model":"Espace",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/28.jpg",
        "price_per_day":40,
        "rating":{
           "average":3.0950751,
@@ -604,7 +570,7 @@
        },
        "owner":{
           "name":"Elmira Sorrell",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/howard.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/28.jpg",
           "rating":{
              "average":4.36119,
              "count":158
@@ -614,7 +580,6 @@
     {
        "brand":"Renault",
        "model":"Clio Campus",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/39.jpg",
        "price_per_day":16,
        "rating":{
           "average":3.4047322,
@@ -622,7 +587,7 @@
        },
        "owner":{
           "name":"Pearline Pate",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/robert.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/39.jpg",
           "rating":{
              "average":3.9886503,
              "count":126
@@ -632,7 +597,6 @@
     {
        "brand":"Volkswagen",
        "model":"Polo",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/8.jpg",
        "price_per_day":18,
        "rating":{
           "average":3.469561,
@@ -640,7 +604,7 @@
        },
        "owner":{
           "name":"Long Gann",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/sandra.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/8.jpg",
           "rating":{
              "average":3.0432847,
              "count":242
@@ -650,7 +614,6 @@
     {
        "brand":"Citroen",
        "model":"C4 Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/11.jpg",
        "price_per_day":31,
        "rating":{
           "average":3.821343,
@@ -658,7 +621,7 @@
        },
        "owner":{
           "name":"Ninfa Harkins",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/alexandru.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/11.jpg",
           "rating":{
              "average":4.9548464,
              "count":189
@@ -668,7 +631,6 @@
     {
        "brand":"Citroen",
        "model":"C4 Grand Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/1.jpg",
        "price_per_day":29,
        "rating":{
           "average":3.881019,
@@ -676,7 +638,7 @@
        },
        "owner":{
           "name":"Andre Jack",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/guillemette.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/1.jpg",
           "rating":{
              "average":4.025211,
              "count":25
@@ -686,7 +648,6 @@
     {
        "brand":"Volkswagen",
        "model":"Touran",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/26.jpg",
        "price_per_day":13,
        "rating":{
           "average":3.696429,
@@ -694,7 +655,7 @@
        },
        "owner":{
           "name":"Kasey Ayres",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/marius.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/26.jpg",
           "rating":{
              "average":3.6370091,
              "count":137
@@ -704,7 +665,6 @@
     {
        "brand":"Peugeot",
        "model":"208",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/39.jpg",
        "price_per_day":39,
        "rating":{
           "average":3.7558866,
@@ -712,7 +672,7 @@
        },
        "owner":{
           "name":"Glady Gipson",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/kim.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/39.jpg",
           "rating":{
              "average":3.3323002,
              "count":101
@@ -722,7 +682,6 @@
     {
        "brand":"Peugeot",
        "model":"207",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/20.jpg",
        "price_per_day":36,
        "rating":{
           "average":4.684417,
@@ -730,7 +689,7 @@
        },
        "owner":{
           "name":"Ressie Perrin",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/alba.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/20.jpg",
           "rating":{
              "average":4.850573,
              "count":272
@@ -740,7 +699,6 @@
     {
        "brand":"Renault",
        "model":"Scénic",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/39.jpg",
        "price_per_day":38,
        "rating":{
           "average":4.7523975,
@@ -748,7 +706,7 @@
        },
        "owner":{
           "name":"Tory Sanborn",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/tim.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/39.jpg",
           "rating":{
              "average":4.155237,
              "count":156
@@ -758,7 +716,6 @@
     {
        "brand":"Renault",
        "model":"Modus",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/14.jpg",
        "price_per_day":30,
        "rating":{
           "average":4.8099136,
@@ -766,7 +723,7 @@
        },
        "owner":{
           "name":"Alica Connell",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/emily.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/14.jpg",
           "rating":{
              "average":3.5414562,
              "count":84
@@ -776,7 +733,6 @@
     {
        "brand":"Citroen",
        "model":"Berlingo Multispace",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/1.jpg",
        "price_per_day":44,
        "rating":{
           "average":4.876707,
@@ -784,7 +740,7 @@
        },
        "owner":{
           "name":"Eloy Trotter",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/quentin.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/1.jpg",
           "rating":{
              "average":3.4711993,
              "count":80
@@ -794,7 +750,6 @@
     {
        "brand":"Fiat",
        "model":"Punto",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/24.jpg",
        "price_per_day":17,
        "rating":{
           "average":4.4160395,
@@ -802,7 +757,7 @@
        },
        "owner":{
           "name":"Porsha Schmitz",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/raphael.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/24.jpg",
           "rating":{
              "average":4.561714,
              "count":275
@@ -812,7 +767,6 @@
     {
        "brand":"Hyundai",
        "model":"i20",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/30.jpg",
        "price_per_day":11,
        "rating":{
           "average":4.4737663,
@@ -820,7 +774,7 @@
        },
        "owner":{
           "name":"Harriett Hoy",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/pierre.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/30.jpg",
           "rating":{
              "average":4.5069737,
              "count":175
@@ -830,7 +784,6 @@
     {
        "brand":"Citroen",
        "model":"C4 Picasso",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/33.jpg",
        "price_per_day":27,
        "rating":{
           "average":4.0411854,
@@ -838,7 +791,7 @@
        },
        "owner":{
           "name":"Hilma Krieger",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/diane.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/33.jpg",
           "rating":{
              "average":3.8775916,
              "count":255
@@ -848,7 +801,6 @@
     {
        "brand":"Fiat",
        "model":"Panda",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/34.jpg",
        "price_per_day":33,
        "rating":{
           "average":4.0987015,
@@ -856,7 +808,7 @@
        },
        "owner":{
           "name":"Sonny Durant",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/gwenaelle.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/34.jpg",
           "rating":{
              "average":3.1979265,
              "count":235
@@ -866,7 +818,6 @@
     {
        "brand":"Suzuki",
        "model":"swift",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/6.jpg",
        "price_per_day":34,
        "rating":{
           "average":3.1705856,
@@ -874,7 +825,7 @@
        },
        "owner":{
           "name":"Darrick Luther",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/jack.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/6.jpg",
           "rating":{
              "average":4.2920465,
              "count":154
@@ -884,7 +835,6 @@
     {
        "brand":"Citroen",
        "model":"Saxo",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/20.jpg",
        "price_per_day":40,
        "rating":{
           "average":3.2349262,
@@ -892,7 +842,7 @@
        },
        "owner":{
           "name":"Porsha Schmitz",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/raphael.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/20.jpg",
           "rating":{
              "average":4.721713,
              "count":222
@@ -902,7 +852,6 @@
     {
        "brand":"Ford",
        "model":"C-Max",
-       "picture_url":"https://raw.githubusercontent.com/drivy/jobs/master/android/api/pictures/37.jpg",
        "price_per_day":32,
        "rating":{
           "average":3.2964163,
@@ -910,7 +859,7 @@
        },
        "owner":{
           "name":"Eloy Trotter",
-          "picture_url":"https://drivy-assets.imgix.net/jobs/team/quentin.jpg",
+          "picture_url":"https://github.com/drivy/mobile-technical-test/raw/master/api/pictures/37.jpg",
           "rating":{
              "average":3.1001127,
              "count":174
