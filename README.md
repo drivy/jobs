@@ -8,7 +8,7 @@ have to complete one of our code challenges:
 - [Frontend](https://github.com/drivy/jobs/tree/master/frontend)
 - [Data](https://github.com/drivy/jobs/tree/master/data)
 - [Reliability](https://github.com/drivy/jobs/tree/master/reliability)
-- [Android](https://github.com/drivy/jobs/tree/master/android)
+- [Mobile](https://github.com/drivy/jobs/tree/master/mobile)
 
 ### Data
 - [Analytics Engineering](https://github.com/drivy/jobs/tree/master/analytics_engineering)
