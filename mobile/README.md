@@ -1,23 +1,24 @@
-# Getaround Mobile Challenge
-Looking for a job? Check out our [open positions](https://fr.getaround.com/jobs).
-You can also take a look at our [engineering blog](https://getaround.tech/) to learn more about the way we work.
+# Getaround Mobile Challenge 
+Looking for a job? Check out our [open positions](https://fr.getaround.com/jobs).\ 
+You can also take a look at our [engineering blog](https://getaround.tech/) to learn more about the way we work. 
 
-## Guidelines
+*Estimated duration : 3-4 hours* 
+
+## Guidelines 
 - Clone this repo (do **not** fork it) 
 - Solve the levels in ascending order 
 - Only do one commit per level and include the `.git` directory when submitting your test 
-- Please use Swift and UIKit for iOS 
-- Please use Kotlin for Android 
+- For iOS, please use Swift. You can use either UIKit or SwiftUI as UI Framework. Please follow the [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/). 
+- For Android, please use Kotlin. 
 
-## Pointers
-You can have a look at the higher levels, but *please do the simplest* thing that could work for the level you’re currently solving. 
-
+## Pointers 
+Please do the simplest thing that could work for the level you’re currently solving.\ 
 We are interested in seeing code that is clean, simple and robust, don’t overlook edge cases. 
 
 We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. 
-Do not hesitate to take inspiration from Getaround or anywhere else! 
+Do not hesitate to take inspiration from Getaround or anywhere else ! 
 
-Feel free to use any libs and technics you are confortable with but again, keep it simple and do not make a showcase app for every library you know. 
+Feel free to use any libraries and technics you are confortable with but again, keep it simple and do not make a showcase app for every library you know. 
 
 ## Sending Your Results
 Once you are done, please send your results to someone from Getaround.
