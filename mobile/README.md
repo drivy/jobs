@@ -12,7 +12,7 @@ You can also take a look at our [engineering blog](https://getaround.tech/) to l
 - For Android, please use Kotlin. 
 
 ## Pointers 
-Please do the simplest thing that could work for the level you’re currently solving.\ 
+Please do the simplest thing that could work for the level you’re currently solving.\
 We are interested in seeing code that is clean, simple and robust, don’t overlook edge cases. 
 
 We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. 
