@@ -1,5 +1,5 @@
 # Getaround Mobile Challenge 
-Looking for a job? Check out our [open positions](https://fr.getaround.com/jobs).\ 
+Looking for a job? Check out our [open positions](https://fr.getaround.com/jobs).\
 You can also take a look at our [engineering blog](https://getaround.tech/) to learn more about the way we work. 
 
 *Estimated duration : 3-4 hours* 
