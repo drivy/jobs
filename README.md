@@ -5,10 +5,10 @@ have to complete one of our code challenges:
 
 ### Engineering
 - [Backend](https://github.com/drivy/jobs/tree/master/backend)
-- [Frontend](https://github.com/drivy/jobs/tree/master/frontend)
 - [Data](https://github.com/drivy/jobs/tree/master/data)
-- [Reliability](https://github.com/drivy/jobs/tree/master/reliability)
+- [Frontend](https://github.com/drivy/jobs/tree/master/frontend)
 - [Mobile](https://github.com/drivy/jobs/tree/master/mobile)
+- [Reliability](https://github.com/drivy/jobs/tree/master/reliability)
 
 ### Data
 - [Analytics Engineering](https://github.com/drivy/jobs/tree/master/analytics_engineering)
