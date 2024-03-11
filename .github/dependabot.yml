@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/frontend"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 99
+  assignees:
+  - lou
+  ignore:
+  - dependency-name: lodash
+    versions:
+    - 4.17.20
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
