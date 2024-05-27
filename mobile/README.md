@@ -15,8 +15,8 @@ You can also take a look at our [engineering blog](https://getaround.tech/) to l
 Please do the simplest thing that could work for the level you’re currently solving.\
 We are interested in seeing code that is clean, simple and robust, don’t overlook edge cases. 
 
-We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app.\ 
-Make sure that the UX respects the standard platform guidelines, and that the UI is fluid.\ 
+We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app.\
+Make sure that the UX respects the standard platform guidelines, and that the UI is fluid.\
 Do not hesitate to take inspiration from Getaround or your favorite app ! 
 
 Feel free to use any libraries and technics you are confortable with but again, keep it simple and do not make a showcase app for every library you know. 
