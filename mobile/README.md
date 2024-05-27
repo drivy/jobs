@@ -8,7 +8,7 @@ You can also take a look at our [engineering blog](https://getaround.tech/) to l
 - Clone this repo (do **not** fork it) 
 - Solve the levels in ascending order 
 - Only do one commit per level and include the `.git` directory when submitting your test 
-- For iOS, please use Swift. You can use either UIKit or SwiftUI as UI Framework. Please follow the [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/). 
+- For iOS, please use Swift. You can use either SwiftUI or UIKit as UI Framework. Please follow the [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/). 
 - For Android, please use Kotlin. 
 
 ## Pointers 
@@ -38,7 +38,7 @@ Car owners can already list their car on our platform and backend developers hav
 
 Our plan is now to let any person (let’s call them « driver ») see cars they could rent.
 
-### Level 1: fetching and displaying cars
+### Level 1: fetch and display cars
 
 For the first version of our app, we want drivers to see the cars they can rent.\
 For every car returned by the backend, we want to display its picture, brand, model, price per day and rating.
@@ -56,3 +56,9 @@ When a driver clicks on a car, we want to display a second view with more detail
 Mockup #2 gives you an idea of what we would like to see.
 
 ![Mockup #2](details.png?raw=true "Mockup #2")
+
+### Level 3: add to favorite (Optional if your are doing this test with UIKit) 
+
+From the detail screen, the driver can add or remove a car from their favorites. 
+
+The driver should be able to see if a car is a favorite directly from the Cars list. 
