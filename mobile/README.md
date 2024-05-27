@@ -16,7 +16,7 @@ Please do the simplest thing that could work for the level you’re currently so
 We are interested in seeing code that is clean, simple and robust, don’t overlook edge cases. 
 
 We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app.\
-Do not hesitate to take inspiration from Getaround or anywhere else ! 
+Do not hesitate to take inspiration from Getaround or your favorite app ! 
 
 Feel free to use any libraries and technics you are confortable with but again, keep it simple and do not make a showcase app for every library you know. 
 
