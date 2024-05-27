@@ -61,4 +61,4 @@ Mockup #2 gives you an idea of what we would like to see.
 
 From the detail screen, the driver can add or remove a car from their favorites. 
 
-The driver should be able to see if a car is a favorite directly from the Cars list. 
+The driver should be able to see if a car is a favorite from the cars list as well. 
