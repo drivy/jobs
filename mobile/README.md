@@ -58,7 +58,7 @@ Mockup #2 gives you an idea of what we would like to see.
 
 ![Mockup #2](details.png?raw=true "Mockup #2")
 
-### Level 3: add to favorite (Optional if your are doing this test with UIKit) 
+### Level 3: add to favorite (Mandatory if you are doing this test with SwiftUI, Optional if your are doing this test with UIKit) 
 
 From the detail screen, the driver can add or remove a car from their favorites. 
 
