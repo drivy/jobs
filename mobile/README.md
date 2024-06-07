@@ -48,7 +48,7 @@ The API is accessible with a `GET` request at `https://raw.githubusercontent.com
 
 Mockup #1 gives you an idea of what we would like to see.
 
-![Mockup #1](list.png?raw=true "Mockup #1")
+![Mockup #1](https://github.com/drivy/jobs/assets/1333507/ede3d183-c97e-4adb-881b-851febfa756d)
 
 ### Level 2: display a car details
 
@@ -56,10 +56,16 @@ When a driver clicks on a car, we want to display a second view with more detail
 
 Mockup #2 gives you an idea of what we would like to see.
 
-![Mockup #2](details.png?raw=true "Mockup #2")
+![Mockup #2](https://github.com/drivy/jobs/assets/1333507/308d043a-b485-4389-ac3a-dac9682e4eb0)
 
 ### Level 3: add to favorite (Mandatory if you are doing this test with SwiftUI, Optional if your are doing this test with UIKit) 
 
-From the detail screen, the driver can add or remove a car from their favorites. 
+a. From the detail screen, the driver can add or remove a car from their favorites. 
 
-The driver should be able to see if a car is a favorite from the cars list as well. 
+![details-favorites-on](https://github.com/drivy/jobs/assets/1333507/db97abd9-deec-4b9d-8d51-2e3c8d275732)
+![detail-favorites-off](https://github.com/drivy/jobs/assets/1333507/e133a90d-eb77-4398-a26d-57783d3d6ea0)
+
+b. The driver should be able to see if a car is a favorite from the cars list as well. 
+
+![list-with-favorites](https://github.com/drivy/jobs/assets/1333507/8f449e6e-31c2-4f33-b045-9360cb5e774e)
+
