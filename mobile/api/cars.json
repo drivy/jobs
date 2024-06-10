@@ -1,920 +1,971 @@
 [
-   {
-     "brand": "Citroen",
-     "model": "C3",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
-     "price_per_day": 17,
-     "rating": {
-       "average": 4.697711,
-       "count": 259
-     },
-     "owner": {
-       "name": "Elmira Sorrell",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/howard.jpg",
-       "rating": {
-         "average": 4.318206,
-         "count": 255
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Xsara Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/33.jpg",
-     "price_per_day": 27,
-     "rating": {
-       "average": 4.7544947,
-       "count": 250
-     },
-     "owner": {
-       "name": "Britni Fitch",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sonia.jpg",
-       "rating": {
-         "average": 4.7478724,
-         "count": 107
-       }
-     }
-   },
-   {
-     "brand": "Seat",
-     "model": "Ibiza",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
-     "price_per_day": 35,
-     "rating": {
-       "average": 4.821972,
-       "count": 55
-     },
-     "owner": {
-       "name": "Kenna Clemons",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/olivier.jpg",
-       "rating": {
-         "average": 3.1331077,
-         "count": 67
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C3",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/19.jpg",
-     "price_per_day": 41,
-     "rating": {
-       "average": 4.880431,
-       "count": 270
-     },
-     "owner": {
-       "name": "Kasey Ayres",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/marius.jpg",
-       "rating": {
-         "average": 3.9378479,
-         "count": 167
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C4 Grand Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/31.jpg",
-     "price_per_day": 44,
-     "rating": {
-       "average": 4.403592,
-       "count": 171
-     },
-     "owner": {
-       "name": "Valeri Kaminski",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/nicolas.jpg",
-       "rating": {
-         "average": 4.091597,
-         "count": 188
-       }
-     }
-   },
-   {
-     "brand": "Kia",
-     "model": "Picanto",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/14.jpg",
-     "price_per_day": 22,
-     "rating": {
-       "average": 4.4706297,
-       "count": 186
-     },
-     "owner": {
-       "name": "Rosario Hawley",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/gaetan.jpg",
-       "rating": {
-         "average": 4.9118557,
-         "count": 200
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Xsara Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/23.jpg",
-     "price_per_day": 30,
-     "rating": {
-       "average": 4.028204,
-       "count": 231
-     },
-     "owner": {
-       "name": "Hai Kuykendall",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/perrine.jpg",
-       "rating": {
-         "average": 3.2815046,
-         "count": 16
-       }
-     }
-   },
-   {
-     "brand": "Fiat",
-     "model": "Punto",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
-     "price_per_day": 44,
-     "rating": {
-       "average": 4.0959406,
-       "count": 246
-     },
-     "owner": {
-       "name": "Kenna Clemons",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/olivier.jpg",
-       "rating": {
-         "average": 3.7268405,
-         "count": 252
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C3 Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
-     "price_per_day": 47,
-     "rating": {
-       "average": 3.040584,
-       "count": 59
-     },
-     "owner": {
-       "name": "Sylvie Belanger",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/arnold.jpg",
-       "rating": {
-         "average": 4.2138176,
-         "count": 177
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Saxo",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/28.jpg",
-     "price_per_day": 13,
-     "rating": {
-       "average": 3.0993094,
-       "count": 186
-     },
-     "owner": {
-       "name": "Emmaline Thorne",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
-       "rating": {
-         "average": 4.768528,
-         "count": 141
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Berlingo Multispace",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/35.jpg",
-     "price_per_day": 21,
-     "rating": {
-       "average": 3.4146607,
-       "count": 207
-     },
-     "owner": {
-       "name": "Belen Jobe",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/paulin.jpg",
-       "rating": {
-         "average": 3.3969579,
-         "count": 101
-       }
-     }
-   },
-   {
-     "brand": "Kia",
-     "model": "Picanto",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/5.jpg",
-     "price_per_day": 31,
-     "rating": {
-       "average": 3.4750695,
-       "count": 254
-     },
-     "owner": {
-       "name": "Britni Fitch",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sonia.jpg",
-       "rating": {
-         "average": 3.5765932,
-         "count": 161
-       }
-     }
-   },
-   {
-     "brand": "Seat",
-     "model": "Ibiza",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/22.jpg",
-     "price_per_day": 34,
-     "rating": {
-       "average": 3.8107965,
-       "count": 139
-     },
-     "owner": {
-       "name": "Aimee Elliot",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/jean.jpg",
-       "rating": {
-         "average": 4.4249206,
-         "count": 118
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Clio",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/16.jpg",
-     "price_per_day": 16,
-     "rating": {
-       "average": 3.8758695,
-       "count": 210
-     },
-     "owner": {
-       "name": "Emmaline Thorne",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
-       "rating": {
-         "average": 4.620288,
-         "count": 82
-       }
-     }
-   },
-   {
-     "brand": "Peugeot",
-     "model": "5008",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
-     "price_per_day": 32,
-     "rating": {
-       "average": 3.6854682,
-       "count": 135
-     },
-     "owner": {
-       "name": "Allie Savoy",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/eloise.jpg",
-       "rating": {
-         "average": 3.2330704,
-         "count": 186
-       }
-     }
-   },
-   {
-     "brand": "Hyundai",
-     "model": "i20",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/28.jpg",
-     "price_per_day": 18,
-     "rating": {
-       "average": 3.751248,
-       "count": 30
-     },
-     "owner": {
-       "name": "Claudie Gentry",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/kane.jpg",
-       "rating": {
-         "average": 3.8033586,
-         "count": 246
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C3",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
-     "price_per_day": 41,
-     "rating": {
-       "average": 4.526775,
-       "count": 127
-     },
-     "owner": {
-       "name": "Almeda Valle",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/david.jpg",
-       "rating": {
-         "average": 4.6474724,
-         "count": 215
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C2",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
-     "price_per_day": 35,
-     "rating": {
-       "average": 4.5818157,
-       "count": 158
-     },
-     "owner": {
-       "name": "Emmaline Thorne",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
-       "rating": {
-         "average": 4.3271832,
-         "count": 219
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Scénic",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
-     "price_per_day": 27,
-     "rating": {
-       "average": 4.9011264,
-       "count": 83
-     },
-     "owner": {
-       "name": "Deidre Beauchamp",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/audrey.jpg",
-       "rating": {
-         "average": 3.9634335,
-         "count": 235
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Clio",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/11.jpg",
-     "price_per_day": 17,
-     "rating": {
-       "average": 4.957422,
-       "count": 34
-     },
-     "owner": {
-       "name": "Deidre Beauchamp",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/audrey.jpg",
-       "rating": {
-         "average": 3.0180674,
-         "count": 47
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C4 Grand Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/41.jpg",
-     "price_per_day": 20,
-     "rating": {
-       "average": 4.293081,
-       "count": 39
-     },
-     "owner": {
-       "name": "Savanna Hough",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/hugo.jpg",
-       "rating": {
-         "average": 4.983462,
-         "count": 188
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Xsara Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/3.jpg",
-     "price_per_day": 14,
-     "rating": {
-       "average": 4.3622823,
-       "count": 294
-     },
-     "owner": {
-       "name": "Glady Gipson",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/kim.jpg",
-       "rating": {
-         "average": 4.0538273,
-         "count": 128
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C4 Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
-     "price_per_day": 22,
-     "rating": {
-       "average": 4.1680274,
-       "count": 283
-     },
-     "owner": {
-       "name": "Elmira Sorrell",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/howard.jpg",
-       "rating": {
-         "average": 3.6744137,
-         "count": 288
-       }
-     }
-   },
-   {
-     "brand": "Peugeot",
-     "model": "207",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
-     "price_per_day": 12,
-     "rating": {
-       "average": 4.237507,
-       "count": 282
-     },
-     "owner": {
-       "name": "Voncile Hamer",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/steffen.jpg",
-       "rating": {
-         "average": 3.3697057,
-         "count": 164
-       }
-     }
-   },
-   {
-     "brand": "Suzuki",
-     "model": "swift",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
-     "price_per_day": 23,
-     "rating": {
-       "average": 3.1800709,
-       "count": 247
-     },
-     "owner": {
-       "name": "Eloy Trotter",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/quentin.jpg",
-       "rating": {
-         "average": 4.8846827,
-         "count": 225
-       }
-     }
-   },
-   {
-     "brand": "Fiat",
-     "model": "Panda",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/29.jpg",
-     "price_per_day": 45,
-     "rating": {
-       "average": 3.240968,
-       "count": 150
-     },
-     "owner": {
-       "name": "Alica Connell",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/emily.jpg",
-       "rating": {
-         "average": 4.189346,
-         "count": 69
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Clio Campus",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
-     "price_per_day": 21,
-     "rating": {
-       "average": 3.3044863,
-       "count": 163
-     },
-     "owner": {
-       "name": "Chelsey Salisbury",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/nikolai.jpg",
-       "rating": {
-         "average": 3.5667765,
-         "count": 133
-       }
-     }
-   },
-   {
-     "brand": "Ford",
-     "model": "Fiesta",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
-     "price_per_day": 47,
-     "rating": {
-       "average": 3.3666296,
-       "count": 74
-     },
-     "owner": {
-       "name": "Savanna Hough",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/hugo.jpg",
-       "rating": {
-         "average": 3.4965193,
-         "count": 153
-       }
-     }
-   },
-   {
-     "brand": "Suzuki",
-     "model": "swift",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/3.jpg",
-     "price_per_day": 42,
-     "rating": {
-       "average": 3.8898582,
-       "count": 63
-     },
-     "owner": {
-       "name": "Cassy Burnette",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/marc.jpg",
-       "rating": {
-         "average": 4.5329566,
-         "count": 190
-       }
-     }
-   },
-   {
-     "brand": "Fiat",
-     "model": "Punto",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
-     "price_per_day": 32,
-     "rating": {
-       "average": 3.9531965,
-       "count": 46
-     },
-     "owner": {
-       "name": "Britni Fitch",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sonia.jpg",
-       "rating": {
-         "average": 4.478217,
-         "count": 130
-       }
-     }
-   },
-   {
-     "brand": "Ford",
-     "model": "C-Max",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/36.jpg",
-     "price_per_day": 32,
-     "rating": {
-       "average": 3.5146246,
-       "count": 243
-     },
-     "owner": {
-       "name": "Almeda Valle",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/david.jpg",
-       "rating": {
-         "average": 3.840045,
-         "count": 50
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C3 Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/7.jpg",
-     "price_per_day": 26,
-     "rating": {
-       "average": 3.5782325,
-       "count": 90
-     },
-     "owner": {
-       "name": "Emmaline Thorne",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
-       "rating": {
-         "average": 3.1603808,
-         "count": 270
-       }
-     }
-   },
-   {
-     "brand": "Kia",
-     "model": "Picanto",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/32.jpg",
-     "price_per_day": 26,
-     "rating": {
-       "average": 3.029051,
-       "count": 6
-     },
-     "owner": {
-       "name": "Cammie Sells",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/isabelle.jpg",
-       "rating": {
-         "average": 4.681478,
-         "count": 178
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Espace",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/28.jpg",
-     "price_per_day": 40,
-     "rating": {
-       "average": 3.0950751,
-       "count": 119
-     },
-     "owner": {
-       "name": "Elmira Sorrell",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/howard.jpg",
-       "rating": {
-         "average": 4.36119,
-         "count": 158
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Clio Campus",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/39.jpg",
-     "price_per_day": 16,
-     "rating": {
-       "average": 3.4047322,
-       "count": 42
-     },
-     "owner": {
-       "name": "Pearline Pate",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/robert.jpg",
-       "rating": {
-         "average": 3.9886503,
-         "count": 126
-       }
-     }
-   },
-   {
-     "brand": "Volkswagen",
-     "model": "Polo",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/8.jpg",
-     "price_per_day": 18,
-     "rating": {
-       "average": 3.469561,
-       "count": 211
-     },
-     "owner": {
-       "name": "Long Gann",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sandra.jpg",
-       "rating": {
-         "average": 3.0432847,
-         "count": 242
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C4 Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/11.jpg",
-     "price_per_day": 31,
-     "rating": {
-       "average": 3.821343,
-       "count": 182
-     },
-     "owner": {
-       "name": "Ninfa Harkins",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/alexandru.jpg",
-       "rating": {
-         "average": 4.9548464,
-         "count": 189
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C4 Grand Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/1.jpg",
-     "price_per_day": 29,
-     "rating": {
-       "average": 3.881019,
-       "count": 95
-     },
-     "owner": {
-       "name": "Andre Jack",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/guillemette.jpg",
-       "rating": {
-         "average": 4.025211,
-         "count": 25
-       }
-     }
-   },
-   {
-     "brand": "Volkswagen",
-     "model": "Touran",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/26.jpg",
-     "price_per_day": 13,
-     "rating": {
-       "average": 3.696429,
-       "count": 50
-     },
-     "owner": {
-       "name": "Kasey Ayres",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/marius.jpg",
-       "rating": {
-         "average": 3.6370091,
-         "count": 137
-       }
-     }
-   },
-   {
-     "brand": "Peugeot",
-     "model": "208",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/39.jpg",
-     "price_per_day": 39,
-     "rating": {
-       "average": 3.7558866,
-       "count": 163
-     },
-     "owner": {
-       "name": "Glady Gipson",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/kim.jpg",
-       "rating": {
-         "average": 3.3323002,
-         "count": 101
-       }
-     }
-   },
-   {
-     "brand": "Peugeot",
-     "model": "207",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/20.jpg",
-     "price_per_day": 36,
-     "rating": {
-       "average": 4.684417,
-       "count": 166
-     },
-     "owner": {
-       "name": "Ressie Perrin",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/alba.jpg",
-       "rating": {
-         "average": 4.850573,
-         "count": 272
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Scénic",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/39.jpg",
-     "price_per_day": 38,
-     "rating": {
-       "average": 4.7523975,
-       "count": 183
-     },
-     "owner": {
-       "name": "Tory Sanborn",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/tim.jpg",
-       "rating": {
-         "average": 4.155237,
-         "count": 156
-       }
-     }
-   },
-   {
-     "brand": "Renault",
-     "model": "Modus",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/14.jpg",
-     "price_per_day": 30,
-     "rating": {
-       "average": 4.8099136,
-       "count": 162
-     },
-     "owner": {
-       "name": "Alica Connell",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/emily.jpg",
-       "rating": {
-         "average": 3.5414562,
-         "count": 84
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Berlingo Multispace",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/1.jpg",
-     "price_per_day": 44,
-     "rating": {
-       "average": 4.876707,
-       "count": 27
-     },
-     "owner": {
-       "name": "Eloy Trotter",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/quentin.jpg",
-       "rating": {
-         "average": 3.4711993,
-         "count": 80
-       }
-     }
-   },
-   {
-     "brand": "Fiat",
-     "model": "Punto",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
-     "price_per_day": 17,
-     "rating": {
-       "average": 4.4160395,
-       "count": 166
-     },
-     "owner": {
-       "name": "Porsha Schmitz",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/raphael.jpg",
-       "rating": {
-         "average": 4.561714,
-         "count": 275
-       }
-     }
-   },
-   {
-     "brand": "Hyundai",
-     "model": "i20",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/30.jpg",
-     "price_per_day": 11,
-     "rating": {
-       "average": 4.4737663,
-       "count": 71
-     },
-     "owner": {
-       "name": "Harriett Hoy",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/pierre.jpg",
-       "rating": {
-         "average": 4.5069737,
-         "count": 175
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "C4 Picasso",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/33.jpg",
-     "price_per_day": 27,
-     "rating": {
-       "average": 4.0411854,
-       "count": 266
-     },
-     "owner": {
-       "name": "Hilma Krieger",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/diane.jpg",
-       "rating": {
-         "average": 3.8775916,
-         "count": 255
-       }
-     }
-   },
-   {
-     "brand": "Fiat",
-     "model": "Panda",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
-     "price_per_day": 33,
-     "rating": {
-       "average": 4.0987015,
-       "count": 195
-     },
-     "owner": {
-       "name": "Sonny Durant",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/gwenaelle.jpg",
-       "rating": {
-         "average": 3.1979265,
-         "count": 235
-       }
-     }
-   },
-   {
-     "brand": "Suzuki",
-     "model": "swift",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/6.jpg",
-     "price_per_day": 34,
-     "rating": {
-       "average": 3.1705856,
-       "count": 146
-     },
-     "owner": {
-       "name": "Darrick Luther",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/jack.jpg",
-       "rating": {
-         "average": 4.2920465,
-         "count": 154
-       }
-     }
-   },
-   {
-     "brand": "Citroen",
-     "model": "Saxo",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/20.jpg",
-     "price_per_day": 40,
-     "rating": {
-       "average": 3.2349262,
-       "count": 243
-     },
-     "owner": {
-       "name": "Porsha Schmitz",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/raphael.jpg",
-       "rating": {
-         "average": 4.721713,
-         "count": 222
-       }
-     }
-   },
-   {
-     "brand": "Ford",
-     "model": "C-Max",
-     "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/37.jpg",
-     "price_per_day": 32,
-     "rating": {
-       "average": 3.2964163,
-       "count": 94
-     },
-     "owner": {
-       "name": "Eloy Trotter",
-       "picture_url": "https://getaround-assets.gumlet.io/jobs/team/quentin.jpg",
-       "rating": {
-         "average": 3.1001127,
-         "count": 174
-       }
-     }
-   }
- ]
+  {
+    "id": "4e7a7ea8-e71d-441d-a639-90aa155f8929",
+    "brand": "Citroen",
+    "model": "C3",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
+    "price_per_day": 17,
+    "rating": {
+      "average": 4.697711,
+      "count": 259
+    },
+    "owner": {
+      "name": "Elmira Sorrell",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/howard.jpg",
+      "rating": {
+        "average": 4.318206,
+        "count": 255
+      }
+    }
+  },
+  {
+    "id": "e6c32bd1-589d-4a27-8b1b-136192945a9d",
+    "brand": "Citroen",
+    "model": "Xsara Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/33.jpg",
+    "price_per_day": 27,
+    "rating": {
+      "average": 4.7544947,
+      "count": 250
+    },
+    "owner": {
+      "name": "Britni Fitch",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sonia.jpg",
+      "rating": {
+        "average": 4.7478724,
+        "count": 107
+      }
+    }
+  },
+  {
+    "id": "71537b7b-4896-43ac-90ef-7467d0057b15",
+    "brand": "Seat",
+    "model": "Ibiza",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
+    "price_per_day": 35,
+    "rating": {
+      "average": 4.821972,
+      "count": 55
+    },
+    "owner": {
+      "name": "Kenna Clemons",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/olivier.jpg",
+      "rating": {
+        "average": 3.1331077,
+        "count": 67
+      }
+    }
+  },
+  {
+    "id": "e4740602-d3e3-4c53-a4c4-b6012337bd15",
+    "brand": "Citroen",
+    "model": "C3",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/19.jpg",
+    "price_per_day": 41,
+    "rating": {
+      "average": 4.880431,
+      "count": 270
+    },
+    "owner": {
+      "name": "Kasey Ayres",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/marius.jpg",
+      "rating": {
+        "average": 3.9378479,
+        "count": 167
+      }
+    }
+  },
+  {
+    "id": "8f01eb0c-f2ec-45a1-89f0-d45fa6e46cc7",
+    "brand": "Citroen",
+    "model": "C4 Grand Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/31.jpg",
+    "price_per_day": 44,
+    "rating": {
+      "average": 4.403592,
+      "count": 171
+    },
+    "owner": {
+      "name": "Valeri Kaminski",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/nicolas.jpg",
+      "rating": {
+        "average": 4.091597,
+        "count": 188
+      }
+    }
+  },
+  {
+    "id": "2464218f-f6fe-4be7-8a03-efb7471e0236",
+    "brand": "Kia",
+    "model": "Picanto",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/14.jpg",
+    "price_per_day": 22,
+    "rating": {
+      "average": 4.4706297,
+      "count": 186
+    },
+    "owner": {
+      "name": "Rosario Hawley",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/gaetan.jpg",
+      "rating": {
+        "average": 4.9118557,
+        "count": 200
+      }
+    }
+  },
+  {
+    "id": "8d8053b0-a23b-4698-b74f-b6ae84aca5c8",
+    "brand": "Citroen",
+    "model": "Xsara Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/23.jpg",
+    "price_per_day": 30,
+    "rating": {
+      "average": 4.028204,
+      "count": 231
+    },
+    "owner": {
+      "name": "Hai Kuykendall",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/perrine.jpg",
+      "rating": {
+        "average": 3.2815046,
+        "count": 16
+      }
+    }
+  },
+  {
+    "id": "982ce197-d053-406c-abab-b67d620dbfb1",
+    "brand": "Fiat",
+    "model": "Punto",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
+    "price_per_day": 44,
+    "rating": {
+      "average": 4.0959406,
+      "count": 246
+    },
+    "owner": {
+      "name": "Kenna Clemons",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/olivier.jpg",
+      "rating": {
+        "average": 3.7268405,
+        "count": 252
+      }
+    }
+  },
+  {
+    "id": "5b59f537-c603-45c6-addc-9cb0ee1cc18d",
+    "brand": "Citroen",
+    "model": "C3 Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
+    "price_per_day": 47,
+    "rating": {
+      "average": 3.040584,
+      "count": 59
+    },
+    "owner": {
+      "name": "Sylvie Belanger",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/arnold.jpg",
+      "rating": {
+        "average": 4.2138176,
+        "count": 177
+      }
+    }
+  },
+  {
+    "id": "90c4e366-ab5f-41f3-9ed8-39e2e9940606",
+    "brand": "Citroen",
+    "model": "Saxo",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/28.jpg",
+    "price_per_day": 13,
+    "rating": {
+      "average": 3.0993094,
+      "count": 186
+    },
+    "owner": {
+      "name": "Emmaline Thorne",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
+      "rating": {
+        "average": 4.768528,
+        "count": 141
+      }
+    }
+  },
+  {
+    "id": "32948b75-02e5-4b7f-8de2-5f9d0ce1e542",
+    "brand": "Citroen",
+    "model": "Berlingo Multispace",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/35.jpg",
+    "price_per_day": 21,
+    "rating": {
+      "average": 3.4146607,
+      "count": 207
+    },
+    "owner": {
+      "name": "Belen Jobe",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/paulin.jpg",
+      "rating": {
+        "average": 3.3969579,
+        "count": 101
+      }
+    }
+  },
+  {
+    "id": "2a70838a-b3ba-4657-a9d5-b1766c6fbc9c",
+    "brand": "Kia",
+    "model": "Picanto",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/5.jpg",
+    "price_per_day": 31,
+    "rating": {
+      "average": 3.4750695,
+      "count": 254
+    },
+    "owner": {
+      "name": "Britni Fitch",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sonia.jpg",
+      "rating": {
+        "average": 3.5765932,
+        "count": 161
+      }
+    }
+  },
+  {
+    "id": "ac6f84fd-7622-4bec-a046-106d9f099cd5",
+    "brand": "Seat",
+    "model": "Ibiza",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/22.jpg",
+    "price_per_day": 34,
+    "rating": {
+      "average": 3.8107965,
+      "count": 139
+    },
+    "owner": {
+      "name": "Aimee Elliot",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/jean.jpg",
+      "rating": {
+        "average": 4.4249206,
+        "count": 118
+      }
+    }
+  },
+  {
+    "id": "9efe342d-aa07-4f3b-b687-91794557c03a",
+    "brand": "Renault",
+    "model": "Clio",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/16.jpg",
+    "price_per_day": 16,
+    "rating": {
+      "average": 3.8758695,
+      "count": 210
+    },
+    "owner": {
+      "name": "Emmaline Thorne",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
+      "rating": {
+        "average": 4.620288,
+        "count": 82
+      }
+    }
+  },
+  {
+    "id": "5d0934fe-6af6-4a55-be34-e13da4bd06aa",
+    "brand": "Peugeot",
+    "model": "5008",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
+    "price_per_day": 32,
+    "rating": {
+      "average": 3.6854682,
+      "count": 135
+    },
+    "owner": {
+      "name": "Allie Savoy",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/eloise.jpg",
+      "rating": {
+        "average": 3.2330704,
+        "count": 186
+      }
+    }
+  },
+  {
+    "id": "c55cd28f-aab0-4289-bc26-7c9834c45c5b",
+    "brand": "Hyundai",
+    "model": "i20",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/28.jpg",
+    "price_per_day": 18,
+    "rating": {
+      "average": 3.751248,
+      "count": 30
+    },
+    "owner": {
+      "name": "Claudie Gentry",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/kane.jpg",
+      "rating": {
+        "average": 3.8033586,
+        "count": 246
+      }
+    }
+  },
+  {
+    "id": "b23db963-f884-42fc-a399-da03cac15a23",
+    "brand": "Citroen",
+    "model": "C3",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
+    "price_per_day": 41,
+    "rating": {
+      "average": 4.526775,
+      "count": 127
+    },
+    "owner": {
+      "name": "Almeda Valle",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/david.jpg",
+      "rating": {
+        "average": 4.6474724,
+        "count": 215
+      }
+    }
+  },
+  {
+    "id": "9e767d49-df55-4a60-90ce-36d523b10813",
+    "brand": "Citroen",
+    "model": "C2",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
+    "price_per_day": 35,
+    "rating": {
+      "average": 4.5818157,
+      "count": 158
+    },
+    "owner": {
+      "name": "Emmaline Thorne",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
+      "rating": {
+        "average": 4.3271832,
+        "count": 219
+      }
+    }
+  },
+  {
+    "id": "23f61c9f-9a72-484f-a77f-1ae033c9307d",
+    "brand": "Renault",
+    "model": "Scénic",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
+    "price_per_day": 27,
+    "rating": {
+      "average": 4.9011264,
+      "count": 83
+    },
+    "owner": {
+      "name": "Deidre Beauchamp",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/audrey.jpg",
+      "rating": {
+        "average": 3.9634335,
+        "count": 235
+      }
+    }
+  },
+  {
+    "id": "15b14245-fcec-4fd8-b40f-a0daa20e41df",
+    "brand": "Renault",
+    "model": "Clio",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/11.jpg",
+    "price_per_day": 17,
+    "rating": {
+      "average": 4.957422,
+      "count": 34
+    },
+    "owner": {
+      "name": "Deidre Beauchamp",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/audrey.jpg",
+      "rating": {
+        "average": 3.0180674,
+        "count": 47
+      }
+    }
+  },
+  {
+    "id": "f7c8b3ac-aac2-48be-ba06-af74fb805424",
+    "brand": "Citroen",
+    "model": "C4 Grand Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/41.jpg",
+    "price_per_day": 20,
+    "rating": {
+      "average": 4.293081,
+      "count": 39
+    },
+    "owner": {
+      "name": "Savanna Hough",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/hugo.jpg",
+      "rating": {
+        "average": 4.983462,
+        "count": 188
+      }
+    }
+  },
+  {
+    "id": "ed59ae05-d83a-4b4a-9eef-febe11dd7167",
+    "brand": "Citroen",
+    "model": "Xsara Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/3.jpg",
+    "price_per_day": 14,
+    "rating": {
+      "average": 4.3622823,
+      "count": 294
+    },
+    "owner": {
+      "name": "Glady Gipson",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/kim.jpg",
+      "rating": {
+        "average": 4.0538273,
+        "count": 128
+      }
+    }
+  },
+  {
+    "id": "e5afe07d-26b4-4be4-b09e-2850f31834df",
+    "brand": "Citroen",
+    "model": "C4 Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
+    "price_per_day": 22,
+    "rating": {
+      "average": 4.1680274,
+      "count": 283
+    },
+    "owner": {
+      "name": "Elmira Sorrell",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/howard.jpg",
+      "rating": {
+        "average": 3.6744137,
+        "count": 288
+      }
+    }
+  },
+  {
+    "id": "712a05d5-b821-4704-97b6-bc9d5ba65a12",
+    "brand": "Peugeot",
+    "model": "207",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/13.jpg",
+    "price_per_day": 12,
+    "rating": {
+      "average": 4.237507,
+      "count": 282
+    },
+    "owner": {
+      "name": "Voncile Hamer",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/steffen.jpg",
+      "rating": {
+        "average": 3.3697057,
+        "count": 164
+      }
+    }
+  },
+  {
+    "id": "e4883d81-5296-4d3a-87b1-be54aaed08f6",
+    "brand": "Suzuki",
+    "model": "swift",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
+    "price_per_day": 23,
+    "rating": {
+      "average": 3.1800709,
+      "count": 247
+    },
+    "owner": {
+      "name": "Eloy Trotter",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/quentin.jpg",
+      "rating": {
+        "average": 4.8846827,
+        "count": 225
+      }
+    }
+  },
+  {
+    "id": "2d0bc248-ffc9-4371-8c5a-9184d24bd788",
+    "brand": "Fiat",
+    "model": "Panda",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/29.jpg",
+    "price_per_day": 45,
+    "rating": {
+      "average": 3.240968,
+      "count": 150
+    },
+    "owner": {
+      "name": "Alica Connell",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/emily.jpg",
+      "rating": {
+        "average": 4.189346,
+        "count": 69
+      }
+    }
+  },
+  {
+    "id": "4c29eb70-5bd1-431e-80bd-e2c96d2810fd",
+    "brand": "Renault",
+    "model": "Clio Campus",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
+    "price_per_day": 21,
+    "rating": {
+      "average": 3.3044863,
+      "count": 163
+    },
+    "owner": {
+      "name": "Chelsey Salisbury",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/nikolai.jpg",
+      "rating": {
+        "average": 3.5667765,
+        "count": 133
+      }
+    }
+  },
+  {
+    "id": "1b318ff7-9b36-40f4-a886-b46e4092ee0c",
+    "brand": "Ford",
+    "model": "Fiesta",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/27.jpg",
+    "price_per_day": 47,
+    "rating": {
+      "average": 3.3666296,
+      "count": 74
+    },
+    "owner": {
+      "name": "Savanna Hough",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/hugo.jpg",
+      "rating": {
+        "average": 3.4965193,
+        "count": 153
+      }
+    }
+  },
+  {
+    "id": "e904748a-38c8-4bbd-8380-e3bae3320489",
+    "brand": "Suzuki",
+    "model": "swift",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/3.jpg",
+    "price_per_day": 42,
+    "rating": {
+      "average": 3.8898582,
+      "count": 63
+    },
+    "owner": {
+      "name": "Cassy Burnette",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/marc.jpg",
+      "rating": {
+        "average": 4.5329566,
+        "count": 190
+      }
+    }
+  },
+  {
+    "id": "adc0a6e4-a8bd-4e9d-ac78-36b149984059",
+    "brand": "Fiat",
+    "model": "Punto",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
+    "price_per_day": 32,
+    "rating": {
+      "average": 3.9531965,
+      "count": 46
+    },
+    "owner": {
+      "name": "Britni Fitch",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sonia.jpg",
+      "rating": {
+        "average": 4.478217,
+        "count": 130
+      }
+    }
+  },
+  {
+    "id": "18cd6d67-664e-410a-aeb0-f1f1389ff22d",
+    "brand": "Ford",
+    "model": "C-Max",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/36.jpg",
+    "price_per_day": 32,
+    "rating": {
+      "average": 3.5146246,
+      "count": 243
+    },
+    "owner": {
+      "name": "Almeda Valle",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/david.jpg",
+      "rating": {
+        "average": 3.840045,
+        "count": 50
+      }
+    }
+  },
+  {
+    "id": "f85ef658-98ea-4b77-8369-14fe0855d012",
+    "brand": "Citroen",
+    "model": "C3 Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/7.jpg",
+    "price_per_day": 26,
+    "rating": {
+      "average": 3.5782325,
+      "count": 90
+    },
+    "owner": {
+      "name": "Emmaline Thorne",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/mathilde.jpg",
+      "rating": {
+        "average": 3.1603808,
+        "count": 270
+      }
+    }
+  },
+  {
+    "id": "e224921e-b708-4143-aaf5-d0716a213d76",
+    "brand": "Kia",
+    "model": "Picanto",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/32.jpg",
+    "price_per_day": 26,
+    "rating": {
+      "average": 3.029051,
+      "count": 6
+    },
+    "owner": {
+      "name": "Cammie Sells",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/isabelle.jpg",
+      "rating": {
+        "average": 4.681478,
+        "count": 178
+      }
+    }
+  },
+  {
+    "id": "2afe7b4e-8d76-4fc8-84c2-e633c59a48ca",
+    "brand": "Renault",
+    "model": "Espace",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/28.jpg",
+    "price_per_day": 40,
+    "rating": {
+      "average": 3.0950751,
+      "count": 119
+    },
+    "owner": {
+      "name": "Elmira Sorrell",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/howard.jpg",
+      "rating": {
+        "average": 4.36119,
+        "count": 158
+      }
+    }
+  },
+  {
+    "id": "988db6b7-e1a4-4eda-a25f-11e08c2092c2",
+    "brand": "Renault",
+    "model": "Clio Campus",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/39.jpg",
+    "price_per_day": 16,
+    "rating": {
+      "average": 3.4047322,
+      "count": 42
+    },
+    "owner": {
+      "name": "Pearline Pate",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/robert.jpg",
+      "rating": {
+        "average": 3.9886503,
+        "count": 126
+      }
+    }
+  },
+  {
+    "id": "6dfe9829-0aa9-4df6-a34e-917e7a6ecf45",
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/8.jpg",
+    "price_per_day": 18,
+    "rating": {
+      "average": 3.469561,
+      "count": 211
+    },
+    "owner": {
+      "name": "Long Gann",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/sandra.jpg",
+      "rating": {
+        "average": 3.0432847,
+        "count": 242
+      }
+    }
+  },
+  {
+    "id": "edb93a36-041b-42f1-981a-80b29392c197",
+    "brand": "Citroen",
+    "model": "C4 Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/11.jpg",
+    "price_per_day": 31,
+    "rating": {
+      "average": 3.821343,
+      "count": 182
+    },
+    "owner": {
+      "name": "Ninfa Harkins",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/alexandru.jpg",
+      "rating": {
+        "average": 4.9548464,
+        "count": 189
+      }
+    }
+  },
+  {
+    "id": "89041c8e-99d4-40b7-b195-7ef4234678c3",
+    "brand": "Citroen",
+    "model": "C4 Grand Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/1.jpg",
+    "price_per_day": 29,
+    "rating": {
+      "average": 3.881019,
+      "count": 95
+    },
+    "owner": {
+      "name": "Andre Jack",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/guillemette.jpg",
+      "rating": {
+        "average": 4.025211,
+        "count": 25
+      }
+    }
+  },
+  {
+    "id": "2c5ae4e2-ab81-4e14-aaeb-54dac4e8a99b",
+    "brand": "Volkswagen",
+    "model": "Touran",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/26.jpg",
+    "price_per_day": 13,
+    "rating": {
+      "average": 3.696429,
+      "count": 50
+    },
+    "owner": {
+      "name": "Kasey Ayres",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/marius.jpg",
+      "rating": {
+        "average": 3.6370091,
+        "count": 137
+      }
+    }
+  },
+  {
+    "id": "94e44a9a-f0a4-459e-9add-a960798e4202",
+    "brand": "Peugeot",
+    "model": "208",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/39.jpg",
+    "price_per_day": 39,
+    "rating": {
+      "average": 3.7558866,
+      "count": 163
+    },
+    "owner": {
+      "name": "Glady Gipson",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/kim.jpg",
+      "rating": {
+        "average": 3.3323002,
+        "count": 101
+      }
+    }
+  },
+  {
+    "id": "8db4fc3d-1671-4b15-8bc4-9e0ba339b2f9",
+    "brand": "Peugeot",
+    "model": "207",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/20.jpg",
+    "price_per_day": 36,
+    "rating": {
+      "average": 4.684417,
+      "count": 166
+    },
+    "owner": {
+      "name": "Ressie Perrin",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/alba.jpg",
+      "rating": {
+        "average": 4.850573,
+        "count": 272
+      }
+    }
+  },
+  {
+    "id": "73a823ec-fe13-4a64-b631-90210000f161",
+    "brand": "Renault",
+    "model": "Scénic",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/39.jpg",
+    "price_per_day": 38,
+    "rating": {
+      "average": 4.7523975,
+      "count": 183
+    },
+    "owner": {
+      "name": "Tory Sanborn",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/tim.jpg",
+      "rating": {
+        "average": 4.155237,
+        "count": 156
+      }
+    }
+  },
+  {
+    "id": "5ccfd524-a519-41db-9cee-54c3c3ab8e0a",
+    "brand": "Renault",
+    "model": "Modus",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/14.jpg",
+    "price_per_day": 30,
+    "rating": {
+      "average": 4.8099136,
+      "count": 162
+    },
+    "owner": {
+      "name": "Alica Connell",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/emily.jpg",
+      "rating": {
+        "average": 3.5414562,
+        "count": 84
+      }
+    }
+  },
+  {
+    "id": "d7d9a936-a5c0-44b7-a3eb-d8a40a3b51ba",
+    "brand": "Citroen",
+    "model": "Berlingo Multispace",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/1.jpg",
+    "price_per_day": 44,
+    "rating": {
+      "average": 4.876707,
+      "count": 27
+    },
+    "owner": {
+      "name": "Eloy Trotter",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/quentin.jpg",
+      "rating": {
+        "average": 3.4711993,
+        "count": 80
+      }
+    }
+  },
+  {
+    "id": "c40d08c6-2d9e-4901-9234-48ef1ba5ef94",
+    "brand": "Fiat",
+    "model": "Punto",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/24.jpg",
+    "price_per_day": 17,
+    "rating": {
+      "average": 4.4160395,
+      "count": 166
+    },
+    "owner": {
+      "name": "Porsha Schmitz",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/raphael.jpg",
+      "rating": {
+        "average": 4.561714,
+        "count": 275
+      }
+    }
+  },
+  {
+    "id": "1a1fd98c-a07d-4a5a-9cc3-b9e2bb442c2d",
+    "brand": "Hyundai",
+    "model": "i20",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/30.jpg",
+    "price_per_day": 11,
+    "rating": {
+      "average": 4.4737663,
+      "count": 71
+    },
+    "owner": {
+      "name": "Harriett Hoy",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/pierre.jpg",
+      "rating": {
+        "average": 4.5069737,
+        "count": 175
+      }
+    }
+  },
+  {
+    "id": "01eda860-fd56-4197-809c-6c9f2a69e2e5",
+    "brand": "Citroen",
+    "model": "C4 Picasso",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/33.jpg",
+    "price_per_day": 27,
+    "rating": {
+      "average": 4.0411854,
+      "count": 266
+    },
+    "owner": {
+      "name": "Hilma Krieger",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/diane.jpg",
+      "rating": {
+        "average": 3.8775916,
+        "count": 255
+      }
+    }
+  },
+  {
+    "id": "0f844e55-8ff2-4a87-9f9e-4575a57a12de",
+    "brand": "Fiat",
+    "model": "Panda",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/34.jpg",
+    "price_per_day": 33,
+    "rating": {
+      "average": 4.0987015,
+      "count": 195
+    },
+    "owner": {
+      "name": "Sonny Durant",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/gwenaelle.jpg",
+      "rating": {
+        "average": 3.1979265,
+        "count": 235
+      }
+    }
+  },
+  {
+    "id": "15d05890-21f5-462d-8314-0623ee290ba4",
+    "brand": "Suzuki",
+    "model": "swift",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/6.jpg",
+    "price_per_day": 34,
+    "rating": {
+      "average": 3.1705856,
+      "count": 146
+    },
+    "owner": {
+      "name": "Darrick Luther",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/jack.jpg",
+      "rating": {
+        "average": 4.2920465,
+        "count": 154
+      }
+    }
+  },
+  {
+    "id": "4a454a4a-bd81-423f-9f59-d4a8369ad659",
+    "brand": "Citroen",
+    "model": "Saxo",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/20.jpg",
+    "price_per_day": 40,
+    "rating": {
+      "average": 3.2349262,
+      "count": 243
+    },
+    "owner": {
+      "name": "Porsha Schmitz",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/raphael.jpg",
+      "rating": {
+        "average": 4.721713,
+        "count": 222
+      }
+    }
+  },
+  {
+    "id": "fb0d61ad-3851-4eaa-a180-76af7cb790cc",
+    "brand": "Ford",
+    "model": "C-Max",
+    "picture_url": "https://raw.githubusercontent.com/drivy/jobs/master/mobile/api/pictures/37.jpg",
+    "price_per_day": 32,
+    "rating": {
+      "average": 3.2964163,
+      "count": 94
+    },
+    "owner": {
+      "name": "Eloy Trotter",
+      "picture_url": "https://getaround-assets.gumlet.io/jobs/team/quentin.jpg",
+      "rating": {
+        "average": 3.1001127,
+        "count": 174
+      }
+    }
+  }
+]
