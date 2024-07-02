@@ -59,6 +59,7 @@ Mockup #2 gives you an idea of what we would like to see.
 ![Mockup #2](https://github.com/drivy/jobs/assets/1333507/308d043a-b485-4389-ac3a-dac9682e4eb0)
 
 ### Level 3: add to favorite (Mandatory if you are doing this test with SwiftUI, Optional if your are doing this test with UIKit) 
+In this level, users will be able to add a car to their favorites list. This choice will be persisted, so it remains even if the user quits and reopens the app. 
 
 a. From the detail screen, the driver can add or remove a car from their favorites. 
 
