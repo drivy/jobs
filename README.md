@@ -15,5 +15,5 @@ have to complete one of our code challenges:
 - [Data Science](https://github.com/drivy/jobs/tree/master/data_science)
 
 In order to learn more about [Getaround](https://www.getaround.com/),
-you can head over our [engineering blog](https://drivy.engineering/)
+you can head over our [engineering blog](https://getaround.tech/)
 or check out [the currently open positions](https://uk.getaround.com/jobs).
