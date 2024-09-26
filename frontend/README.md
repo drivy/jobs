@@ -1,7 +1,7 @@
 # Getaround EU Frontend Challenge (previously Drivy)
 
-Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
-You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
+Looking for a job? Check out our [open positions](https://getaround.com/careers).
+You can also take a look at our [engineering blog](https://getaround.tech/) to learn more about the way we work.
 
 ## Guidelines
 
@@ -31,7 +31,7 @@ This test is framework agnostic, feel free to stick to vanilla HTML/JS/CSS or go
 Once you are done, please send your results to someone from Getaround.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
-- If not, use the application form [on every job listing](https://en.drivy.com/jobs).
+- If not, use the application form [on every job listing](https://getaround.com/careers).
 
 You can send your Github project link or zip your directory and send it via email.
 If you do not use Github, don't forget to attach your `.git` folder.

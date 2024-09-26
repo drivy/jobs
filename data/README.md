@@ -1,7 +1,7 @@
 # Getaround EU Data Engineering Challenge (previously Drivy)
 
-Looking for a job? Check out our [open positions](https://uk.getaround.com.com/jobs).
-You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
+Looking for a job? Check out our [open positions](https://getaround.com/careers).
+You can also take a look at our [engineering blog](https://getaround.tech/) to learn more about the way we work.
 
 
 ## Guidelines
