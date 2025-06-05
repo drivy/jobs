@@ -16,7 +16,7 @@ You can also take a look at our [product blog](https://medium.com/getaround-eu) 
 *Usual time to complete this test: 3 - 5 hours*
 
 - Your answers should include working code/notebook and a presentation to showcase your work.
-- Your code should be written in Python or R.
+- Your code should be written in Python.
 - Your code should be reproducible.
    - include the versions of the libraries used 
    - locate the datasets given in the `/data` subdirectory (it won't be committed as it is already added to the .gitignore).
@@ -47,7 +47,7 @@ Describe the next steps needed to bring your POC to a production-ready model and
 
 ## Data and context
 
-### How does the search engine works?
+### How does the search engine work?
  - Users input an address of search and desired dates and time for their trip. 
     - Optionally, users can filter the results on various criteria such as the type of car (city, sedan, commercial vans..), price, options (AC, snow tires..) etc..
  - The search engine renders a list of cars. It follows 2 main steps to do so:
